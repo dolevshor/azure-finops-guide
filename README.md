@@ -11,7 +11,7 @@ The main purposes of this guide is to do more with less by:
 - Optimizing cloud efficiency
 - Gaining a better understanding and control of cloud costs
 
-> The community is encouraged to contribute to this guide. If you have any suggestions for changes, additions, or removals to the content, please don't hasitate to submit a **pull request** or open a **issue**.
+> The community is encouraged to contribute to this guide. If you have any suggestions for changes, additions, or removals to the content, please don't hesitate to submit a **pull request** or open a **issue**.
 
 ## Table of Contents
 
