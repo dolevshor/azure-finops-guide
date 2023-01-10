@@ -128,6 +128,7 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 [Bartłomiej-Graczyk-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/966827
 [Julio-Calderón-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/288064
 [Anasheh-Boisvert-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1395198
+[Brandon-Wilson-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/140892
 
 ### General
 
@@ -200,12 +201,14 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 
 | Topic                                                              | Author                                  | Published                | Channel                  |
 | :-----------------------                                           | :-----------------------                | :----------------------- | :----------------------- |
-| [Azure Reservations (Reserved Instances) Deep Dive][Reservations-1]| [John Savill][John-Savill-1]            | Dec 2021               | YouTube                  |
-| [Reserved Instance and Capacity Reservations][Reservations-2]      | [John Savill][John-Savill-1]            | May 2022               | YouTube                  |
+| [Azure Reservations (Reserved Instances) Deep Dive][Reservations-1]| [John Savill][John-Savill-1]            | Dec 2021                 | YouTube                  |
+| [Reserved Instance and Capacity Reservations][Reservations-2]      | [John Savill][John-Savill-1]            | May 2022                 | YouTube                  |
+| [Understanding Azure Reservations vs Savings Plans][Reservations-3]| [Brandon Wilson][Brandon-Wilson-1]      | Dec 2022                 | Microsoft Tech Community |
 
 [//]: <> (Reservations links)
 [Reservations-1]: https://www.youtube.com/watch?v=vpTDXenagcM
 [Reservations-2]: https://www.youtube.com/watch?v=43wX15ypp9Y
+[Reservations-3]: https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/quick-reference-understanding-azure-reservations-vs-savings/ba-p/3689070
 
 List of services that supported reservations:
 ![image](https://user-images.githubusercontent.com/69309933/210773383-feb62978-433a-40fe-b425-744c832348ae.png)
@@ -216,10 +219,12 @@ List of services that supported reservations:
 | :-----------------------                                           | :-----------------------                | :----------------------- | :----------------------- |
 | [Purchase Azure savings plan for compute][Saving-Plans-1]          | Microsoft                               |                          | Microsoft Learn          |
 | [Understanding Azure Savings Plan for Compute][Saving-Plans-2]     | [John Savill][John-Savill-1]            | Oct 2022                 | YouTube                  |
+| [Understanding Azure Reservations vs Savings Plans][Saving-Plans-3]| [Brandon Wilson][Brandon-Wilson-1]      | Dec 2022                 | Microsoft Tech Community |
 
 [//]: <> (Savings Plans links)
 [Saving-Plans-1]: https://learn.microsoft.com/en-us/training/modules/azure-savings-plan-for-compute/
 [Saving-Plans-2]: https://www.youtube.com/watch?v=lBnKBV2r6lI&t
+[Saving-Plans-3]: https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/quick-reference-understanding-azure-reservations-vs-savings/ba-p/3689070
 
 
 ### Azure Hybrid Benefit
