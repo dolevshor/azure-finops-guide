@@ -108,7 +108,7 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 [John-Savill-1]: https://www.youtube.com/@NTFAQGuy
 [Dolev-Shor-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1417490
 [Dolev-Shor-2]: https://github.com/dolevshor
-[Sam-Bell]: https://github.com/ms-sambell
+[Sam-Bell-1]: https://github.com/ms-sambell
 [Michael-Flanakin-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/422097
 [Halaa-Menasy-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/129267
 [Sarah-Lean-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/347158
@@ -141,7 +141,7 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 | [Factors to Reduce Cost][General-4]                                | [John Savill][John-Savill-1]            | Jan 2022                 | YouTube                  |
 | [Azure Orphaned Resources][General-5]                              | [Dolev Shor][Dolev-Shor-1]              | Jun 2022                 | Microsoft Tech Community |
 | [Azure Orphaned Resources Workbook][General-6]                     | [Dolev Shor][Dolev-Shor-2]              | Jun 2022                 | GitHub                   |
-| [Azure FinOps Workbook][General-7]                                 | [Sam Bell][Sam-Bell]                    | Jan 2023                 | GitHub                   |
+| [Azure FinOps Workbook][General-7]                                 | [Sam Bell][Sam-Bell-1]                  | Jan 2023                 | GitHub                   |
 
 [General-1]: https://learn.microsoft.com/en-us/shows/azure-friday/managing-reporting-and-reducing-your-costs-in-azure
 [General-2]: https://www.youtube.com/watch?v=RjuTQvGm1zQ
