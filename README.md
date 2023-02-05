@@ -31,6 +31,7 @@ The main purposes of this guide is to do more with less by:
   - [Azure Stack HCI](#azure-stack-hci)
   - [Storage](#storage)
   - [Azure Monitor](#azure-monitor)
+  - [Microsoft Sentinel](#microsoft-sentinel)
   - [Azure Virtual Desktop](#azure-virtual-desktop)
   - [Data](#data)
     - [Azure Synapse](#azure-synapse)
@@ -354,7 +355,7 @@ Additional topics that related to Virtual Machines:
 [Monitor-3]: https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-calculating-chargeback-to-split-monitoring-costs/ba-p/3671760
 
 
-### Azure Sentinel
+### Microsoft Sentinel
 
 | Topic                                                              | Author                                  | Published                | Channel                  |
 | :-----------------------                                           | :-----------------------                | :----------------------- | :----------------------- |
