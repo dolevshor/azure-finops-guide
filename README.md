@@ -20,7 +20,7 @@ The main purposes of this guide is to do more with less by:
 - [Content](#content)
   - [General](#general)
   - [Calculators](#calculators)
-  - [Cost Managemenr](#cost-management)
+  - [Cost Management](#cost-management)
   - [Advisor](#advisor)
   - [Azure Reservations](#azure-reservations)
   - [Savings Plans](#savings-plans)
