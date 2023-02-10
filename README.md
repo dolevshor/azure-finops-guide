@@ -5,7 +5,6 @@
 
 **This guide centralizes Azure FinOps information and tools to enabling a better understanding and optimization of cloud costs.**
 
-
 The main purposes of this guide is to do more with less by:
 - Identifying cost-saving opportunities
 - Optimizing cloud efficiency
@@ -38,7 +37,7 @@ The main purposes of this guide is to do more with less by:
     - [Azure SQL Database](#azure-sql-database)
     - [SQL Managed Instance](#sql-managed-instance)
     - [Azure Database for MySQL](#azure-database-for-mysql)
-    - [Azure Database for PostgeSQL](#azure-database-for-postgesql)
+    - [Azure Database for PostgreSQL](#azure-database-for-postgesql)
     - [Azure Cosmos DB](#azure-cosmos-db)
     - [Stream Analytics](#stream-analytics)
 
@@ -90,7 +89,7 @@ This table contains a list of techniques to optimize and reduce your cloud envir
 
 [WorkbookLink]: https://github.com/dolevshor/azure-orphan-resources
 
-## content
+## Content
 This content summary brings together a wealth of information and resources on the discipline of FinOps in the cloud.
 
 It covers a wide range of topics, domains, products, and resources collected from different channels like:
@@ -327,7 +326,7 @@ Additional topics that related to Virtual Machines:
 | [Optimize costs by automatically managing the data lifecycle][STG-6]| Microsoft                              | Dec 2022                 | Microsoft Azure          |
 | [Optimize costs for Blob storage with reserved capacity][STG-7]    | Microsoft                               | Jul 2022                 | Microsoft Azure          |
 | [Estimate the cost of archiving data][STG-8]                       | Microsoft                               | Dec 2022                 | Microsoft Azure          |
-| [Part 2: Infra Cost Optimisation In The Cloud – Practical Design Steps For Architects and Developers][STG-9] | [Shane Baldacchino][Shane-Baldacchino-1]| Aug 2022  | Microsoft Tech Community |
+| [Part 2: Infra Cost Optimization In The Cloud – Practical Design Steps For Architects and Developers][STG-9] | [Shane Baldacchino][Shane-Baldacchino-1]| Aug 2022  | Microsoft Tech Community |
 
 [//]: <> (Azure Hybrid Benefit links)
 [STG-1]: https://learn.microsoft.com/en-us/shows/azure-friday/optimizing-your-storage-costs-with-azure-blob-storage
@@ -435,14 +434,14 @@ Additional topics that related to Virtual Machines:
 [MySQL-2]: https://techcommunity.microsoft.com/t5/azure-database-support-blog/how-to-auto-scale-an-azure-database-for-mysql-postgresql/ba-p/369177
 
 
-#### Azure Database for PostgeSQL
+#### Azure Database for PostgreSQL
 
 | Topic                                                              | Author                                  | Published                | Channel                  |
 | :-----------------------                                           | :-----------------------                | :----------------------- | :----------------------- |
 | [Azure Database for MySQL and cost optimization][PostgeSQL-1]      | Microsoft                               | Dec 2022               | Microsoft Learn \| Docs  |
 | [How to auto-scale an Azure Database for MySQL/PostgreSQL instance with Azure run books and Python][PostgeSQL-2]| [Julio Calderón][Julio-Calderón-1]| Mar 2019| Microsoft Tech Community|
 
-[//]: <> (Azure Database for PostgeSQL links)
+[//]: <> (Azure Database for PostgreSQL links)
 [PostgeSQL-1]: https://learn.microsoft.com/en-us/azure/architecture/framework/services/data/azure-db-postgresql/cost-optimization
 [PostgeSQL-2]: https://techcommunity.microsoft.com/t5/azure-database-support-blog/how-to-auto-scale-an-azure-database-for-mysql-postgresql/ba-p/369177
 
@@ -465,4 +464,3 @@ Additional topics that related to Virtual Machines:
 
 [//]: <> (Azure Stream Analytics links)
 [Stream-1]: https://techcommunity.microsoft.com/t5/analytics-on-azure-blog/optimize-your-stream-analytics-job-and-reduce-costs-with/ba-p/3423493
-
