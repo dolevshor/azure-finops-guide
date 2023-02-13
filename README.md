@@ -37,7 +37,7 @@ The main purposes of this guide is to do more with less by:
     - [Azure SQL Database](#azure-sql-database)
     - [SQL Managed Instance](#sql-managed-instance)
     - [Azure Database for MySQL](#azure-database-for-mysql)
-    - [Azure Database for PostgreSQL](#azure-database-for-postgesql)
+    - [Azure Database for PostgreSQL](#azure-database-for-postgresql)
     - [Azure Cosmos DB](#azure-cosmos-db)
     - [Stream Analytics](#stream-analytics)
 
