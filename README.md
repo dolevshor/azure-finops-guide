@@ -131,6 +131,7 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 [Anasheh-Boisvert-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1395198
 [Brandon-Wilson-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/140892
 [Helder-Pinto-1]: https://github.com/helderpinto
+[Chris-Bowman-1]: https://github.com/chris-bowman
 
 ### General
 
@@ -176,6 +177,9 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 | [Azure Unblogged – Azure Cost Management][CostMgmt-4]              | [Sarah Lean][Sarah-Lean-1]              | Mar 2022                 | Microsoft Tech Community |
 | [Functionality and Usage of Azure Cost Management][CostMgmt-5]     | [John Savill][John-Savill-1]            | Jan 2022                 | YouTube                  |
 | [Create visuals and reports with the Azure Cost Management connector in Power BI Desktop][CostMgmt-6] | Microsoft | Aug 2022            |  Microsoft Learn \| Docs |
+| [Azure Cost Management Power BI Report][CostMgmt-7]                | [Chris Bowman][Chris-Bowman-1]          | Feb 2023                 |  GitHub                  |
+
+
 
 [//]: <> (Cost Management links)
 [CostMgmt-1]: https://learn.microsoft.com/en-us/training/modules/describe-cost-management-azure/
@@ -184,6 +188,7 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 [CostMgmt-4]: https://techcommunity.microsoft.com/t5/itops-talk-blog/azure-unblogged-azure-cost-management/ba-p/2149786
 [CostMgmt-5]: https://www.youtube.com/watch?v=FoBjC9CAF08
 [CostMgmt-6]: https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-connect-azure-cost-management
+[CostMgmt-7]: https://github.com/chris-bowman/Azure-Cost-Reporting/tree/main/Power%20BI%20Report
 
 
 ### Advisor
