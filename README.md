@@ -317,6 +317,15 @@ Additional topics that related to Virtual Machines:
 - [Azure Savings Plans](#savings-plans)
 - [Azure Hybrid Benefit](#azure-hybrid-benefit) (Windows VM, Linux VM, SQL VM)
 
+### Virtual Machine Scale Sets 
+
+| Topic                                                               | Author                                  | Published                | Channel                  |
+| :-----------------------                                            | :-----------------------                | :----------------------- | :----------------------- |
+| [Spot Priority Mix for high availability and cost savings][VMSSs-1] | Microsoft                               |                          | Microsoft Learn          |
+
+[//]: <> (Virtual Machines Scale Sets links)
+[VMSSs-1]: https://learn.microsoft.com/en-us/azure/virtual-machine-scale-sets/spot-priority-mix
+
 ### App Service
 
 | Topic                                                              | Author                                  | Published                | Channel                  |
