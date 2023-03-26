@@ -28,6 +28,7 @@ The main purposes of this guide is to do more with less by:
   - [Savings Plans](#savings-plans)
   - [Azure Hybrid Benefit](#azure-hybrid-benefit)
   - [Virtual Machines](#virtual-machines)
+  - [Virtual Machine Scale Sets](#virtual-machine-scale-sets)
   - [App Service](#app-service)
   - [AKS](#aks)
   - [Azure Stack HCI](#azure-stack-hci)
@@ -321,7 +322,7 @@ Additional topics that related to Virtual Machines:
 
 | Topic                                                               | Author                                  | Published                | Channel                  |
 | :-----------------------                                            | :-----------------------                | :----------------------- | :----------------------- |
-| [Spot Priority Mix for high availability and cost savings][VMSSs-1] | Microsoft                               |                          | Microsoft Learn          |
+| [Spot Priority Mix for high availability and cost savings][VMSSs-1] | Microsoft                               |  Mar 2023                | Microsoft Learn          |
 
 [//]: <> (Virtual Machines Scale Sets links)
 [VMSSs-1]: https://learn.microsoft.com/en-us/azure/virtual-machine-scale-sets/spot-priority-mix
