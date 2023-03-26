@@ -268,11 +268,23 @@ List of services that supported reservations:
 | [Purchase Azure savings plan for compute][Saving-Plans-1]          | Microsoft                               |                          | Microsoft Learn          |
 | [Understanding Azure Savings Plan for Compute][Saving-Plans-2]     | [John Savill][John-Savill-1]            | Oct 2022                 | YouTube                  |
 | [Understanding Azure Reservations vs Savings Plans][Saving-Plans-3]| [Brandon Wilson][Brandon-Wilson-1]      | Dec 2022                 | Microsoft Tech Community |
+| [View savings plan utilization][Saving-Plans-4]                    | Microsoft                               | Nov 2022                 | Microsoft Learn          |
+| [View savings plan cost and usage][Saving-Plans-5]                 | Microsoft                               | Mar 2023                 | Microsoft Learn          |
+| [View savings plan transactions][Saving-Plans-6]                   | Microsoft                               | Nov 2022                 | Microsoft Learn          |
+| [Charge back savings plan costs][Saving-Plans-7]                   | Microsoft                               | Feb 2023                 | Microsoft Learn          |
+| [Calculaye EA Cost savings][Saving-Plans-8]                        | Microsoft                               | Mar 2023                 | Microsoft Learn          |
+
+
 
 [//]: <> (Savings Plans links)
 [Saving-Plans-1]: https://learn.microsoft.com/en-us/training/modules/azure-savings-plan-for-compute/
 [Saving-Plans-2]: https://www.youtube.com/watch?v=lBnKBV2r6lI&t
 [Saving-Plans-3]: https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/quick-reference-understanding-azure-reservations-vs-savings/ba-p/3689070
+[Saving-Plans-4]: https://learn.microsoft.com/en-us/azure/cost-management-billing/savings-plan/view-utilization
+[Saving-Plans-5]: https://learn.microsoft.com/en-us/azure/cost-management-billing/savings-plan/utilization-cost-reports
+[Saving-Plans-6]: https://learn.microsoft.com/en-us/azure/cost-management-billing/savings-plan/view-transactions
+[Saving-Plans-7]: https://learn.microsoft.com/en-us/azure/cost-management-billing/savings-plan/charge-back-costs
+[Saving-Plans-8]: https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/calculate-ea-reservations-savings
 
 
 ### Azure Hybrid Benefit
