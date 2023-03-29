@@ -226,7 +226,7 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 [CostMgmt-4]: https://techcommunity.microsoft.com/t5/itops-talk-blog/azure-unblogged-azure-cost-management/ba-p/2149786
 [CostMgmt-5]: https://www.youtube.com/watch?v=FoBjC9CAF08
 [CostMgmt-6]: https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-connect-azure-cost-management
-[CostMgmt-7]: https://github.com/chris-bowman/Azure-Cost-Reporting/tree/main/Power%20BI%20Report
+[CostMgmt-7]: https://github.com/chris-bowman/Azure-Cost-Reporting
 [CostMgmt-8]: https://techcommunity.microsoft.com/t5/azure-architecture-blog/codename-project-bose-calculate-azure-cost-of-an-enterprise-by/ba-p/3741295
 
 ### Advisor
