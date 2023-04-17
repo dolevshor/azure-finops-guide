@@ -172,6 +172,7 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 [Pranab-Paul-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1216949
 [Arthur-Clares-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/703269
 [Arthur-Clares-2]: https://github.com/arthurclares
+[Michiel-van-Oudheusden-1]: https://github.com/mivano
 
 ### General
 
@@ -219,6 +220,7 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 | [Create visuals and reports with the Azure Cost Management connector in Power BI Desktop][CostMgmt-6] | Microsoft | Aug 2022            |  Microsoft Learn \| Docs |
 | [Azure Cost Management Power BI Report][CostMgmt-7]                | [Chris Bowman][Chris-Bowman-1]          | Feb 2023                 |  GitHub                  |
 | [Project Bose: Calculate Azure Cost of an Enterprise by cost centers, divisions, projects][CostMgmt-8] | [Pranab Paul][Pranab-Paul-1] | Feb 2023 |  Microsoft Tech Community |
+| [CLI tool to perform cost analysis on your Azure subscription][CostMgmt-9] | [Michiel van Oudheusden][Michiel-van-Oudheusden-1] | Apr 2023 |  GitHub               |
 
 
 [//]: <> (Cost Management links)
@@ -230,6 +232,7 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 [CostMgmt-6]: https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-connect-azure-cost-management
 [CostMgmt-7]: https://github.com/chris-bowman/Azure-Cost-Reporting
 [CostMgmt-8]: https://techcommunity.microsoft.com/t5/azure-architecture-blog/codename-project-bose-calculate-azure-cost-of-an-enterprise-by/ba-p/3741295
+[CostMgmt-9]: https://github.com/mivano/azure-cost-cli
 
 ### Advisor
 
