@@ -170,6 +170,8 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 [Helder-Pinto-1]: https://github.com/helderpinto
 [Chris-Bowman-1]: https://github.com/chris-bowman
 [Pranab-Paul-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1216949
+[Arthur-Clares-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/703269
+[Arthur-Clares-2]: https://github.com/arthurclares
 
 ### General
 
@@ -297,6 +299,8 @@ List of services that supported reservations:
 | [Azure Hybrid Benefit for Azure SQL & Azure SQL Managed Instance][AHUB-4] | Microsoft                        | Aug 2022                 | Microsoft Azure          |
 | [Azure Hybrid Benefit for Azure Kubernetes Service (AKS)][AHUB-5]  | Microsoft                               | Jul 2022                 | Microsoft Learn \| Docs  |
 | [Azure Hybrid Benefit for Azure Stack HCI][AHUB-6]                 | Microsoft                               | Jul 2022                 | Microsoft Azure          |
+| [Managing and Optimizing Your Azure Hybrid Benefit Usage][AHUB-7]  | [Arthur Clares][Arthur-Clares-1]        | Mar 2023                 | Microsoft Tech Community |
+| [Azure Hybrid Benefit Workbook][AHUB-8]                            | [Arthur Clares][Arthur-Clares-2]        | Apr 2023                 | GitHub                   |
 
 [//]: <> (Azure Hybrid Benefit links)
 [AHUB-1]: https://learn.microsoft.com/en-us/windows-server/get-started/azure-hybrid-benefit
@@ -305,6 +309,8 @@ List of services that supported reservations:
 [AHUB-4]: https://learn.microsoft.com/en-us/azure/azure-sql/azure-hybrid-benefit
 [AHUB-5]: https://learn.microsoft.com/en-us/azure/aks/hybrid/azure-hybrid-benefit
 [AHUB-6]: https://learn.microsoft.com/en-us/azure-stack/hci/concepts/azure-hybrid-benefit-hci
+[AHUB-7]: https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/managing-and-optimizing-your-azure-hybrid-benefit-usage-with/ba-p/3783541
+[AHUB-8]: https://github.com/arthurclares/AzureHybridBenefitWorkbook
 
 
 ### Virtual Machines
@@ -315,7 +321,7 @@ List of services that supported reservations:
 | [Azure Spot VM Deep Dive][VMs-2]                                   | [John Savill][John-Savill-1]            | Nov 2021                 | YouTube                  |
 | [Understanding Windows Server IaaS Virtual Machine cost management][VMs-3] | Microsoft                       |                          | Microsoft Learn          |
 | [Start/Stop VMs][VMs-4]                                            | Microsoft                               | Nov 2022               | Microsoft Learn | Docs   |
-| [Part 2: Infra Cost Optimisation In The Cloud – Practical Design Steps For Architects and Developers][VMs-5] | [Shane Baldacchino][Shane-Baldacchino-1]| Aug 2022 | Microsoft Tech Community  |
+| [Part 2: Infra Cost Optimisation In The Cloud – Practical Design Steps For Architects and Developers][VMs-5] | [Shane Baldacchino][Shane-Baldacchino-1]| Aug 2022 | Microsoft Tech Community |
 
 [//]: <> (Virtual Machines links)
 [VMs-1]: https://www.youtube.com/watch?v=UfQgR-nLfno
