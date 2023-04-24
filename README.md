@@ -173,6 +173,10 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 [Arthur-Clares-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/703269
 [Arthur-Clares-2]: https://github.com/arthurclares
 [Michiel-van-Oudheusden-1]: https://github.com/mivano
+[Ryan-Lowell-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1598778
+[Ryan-Lowell-2]: https://github.com/rlowellfl
+
+Ryan-Lowell
 
 ### General
 
@@ -304,6 +308,8 @@ List of services that supported reservations:
 | [Azure Hybrid Benefit for Azure Stack HCI][AHUB-6]                 | Microsoft                               | Jul 2022                 | Microsoft Azure          |
 | [Managing and Optimizing Your Azure Hybrid Benefit Usage][AHUB-7]  | [Arthur Clares][Arthur-Clares-1]        | Mar 2023                 | Microsoft Tech Community |
 | [Azure Hybrid Benefit Workbook][AHUB-8]                            | [Arthur Clares][Arthur-Clares-2]        | Apr 2023                 | GitHub                   |
+| [Tracking Azure Hybrid Benefit using Azure Workbooks][AHUB-9]      | [Ryan Lowell][Ryan-Lowell-1]            | Apr 2023                 | Microsoft Tech Community |
+| [Azure Hybrid Benefit Tracking Dashboard][AHUB-10]                 | [Ryan Lowell][Ryan-Lowell-2]            | Apr 2023                 | GitHub                   |
 
 [//]: <> (Azure Hybrid Benefit links)
 [AHUB-1]: https://learn.microsoft.com/en-us/windows-server/get-started/azure-hybrid-benefit
@@ -314,6 +320,8 @@ List of services that supported reservations:
 [AHUB-6]: https://learn.microsoft.com/en-us/azure-stack/hci/concepts/azure-hybrid-benefit-hci
 [AHUB-7]: https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/managing-and-optimizing-your-azure-hybrid-benefit-usage-with/ba-p/3783541
 [AHUB-8]: https://github.com/arthurclares/AzureHybridBenefitWorkbook
+[AHUB-9]: https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/tracking-azure-hybrid-benefit-using-azure-workbooks/ba-p/3798857
+[AHUB-10]: https://github.com/rlowellfl/azure_hybrid_benefit_workbook
 
 
 ### Virtual Machines
