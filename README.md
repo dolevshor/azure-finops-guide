@@ -176,6 +176,7 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 [Ryan-Lowell-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1598778
 [Ryan-Lowell-2]: https://github.com/rlowellfl
 [Kaysie-Yu-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1222039
+[Nir-Mashkowski-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1200080
 
 ### General
 
@@ -359,12 +360,24 @@ Additional topics that related to Virtual Machines:
 
 | Topic                                                              | Author                                  | Published                | Channel                  |
 | :-----------------------                                           | :-----------------------                | :----------------------- | :----------------------- |
-| [Azure App Service announces more ways to save on compute costs][App-Service-1] | [Mayunk Jain][Mayunk-Jain-1] | Nov 2022  | Microsoft Tech Community            |
-| [A lowered cost and more performant WordPress on Azure AppService][App-Service-2] | [Radhika Bollineni][Radhika-Bollineni-1] | Oct 2022 | Microsoft Tech Community|
+| [Plan and manage costs for Azure App Service][App-Service-1]       | Microsoft                               | Mar 2023                 | Microsoft Learn \| Docs  |
+| [Estimate your cost savings by migrating to App Service Environment v3][App-Service-2] | Jordan Selig \| Microsoft | Mar 2023 | Azure App Service \| Team Blog  |
+| [Azure App Service announces more ways to save on compute costs][App-Service-3] | [Mayunk Jain][Mayunk-Jain-1] | Nov 2022               | Microsoft Tech Community |
+| [A lowered cost and more performant WordPress on Azure AppService][App-Service-4] | [Radhika Bollineni][Radhika-Bollineni-1] | Oct 2022 | Microsoft Tech Community |
+| [Save up to 54% vs. on-premises and up to 35% vs. AWS by migrating your ASP.NET applications to Azure][App-Service-5] | [Mayunk Jain][Mayunk-Jain-1] | Sep 2022 | Microsoft Tech Community |
+| [Celebrating 10 years of Azure App Services free tier][App-Service-6] | [Nir Mashkowski][Nir-Mashkowski-1]    | Sep 2022                | Microsoft Tech Community |
+| [New Azure App Service plans fuel greater choice and savings][App-Service-7] | Naga Surendran \| Microsoft | Apr 2023 | Microsoft Azure Blog |
+| [Forrester study finds 228 percent ROI when modernizing applications on Azure PaaS][App-Service-8] | Ashmi Chokshi \| Microsoft | Dec 2022 | Microsoft Azure Blog |
 
 [//]: <> (App Service links)
-[App-Service-1]: https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-app-service-announces-more-ways-to-save-on-compute-costs/ba-p/3664398
-[App-Service-2]: https://techcommunity.microsoft.com/t5/apps-on-azure-blog/a-lowered-cost-and-more-performant-wordpress-on-azure-appservice/ba-p/3647860
+[App-Service-1]: https://learn.microsoft.com/en-us/azure/app-service/overview-manage-costs
+[App-Service-2]: https://azure.github.io/AppService/2023/03/02/App-service-environment-v3-pricing
+[App-Service-3]: https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-app-service-announces-more-ways-to-save-on-compute-costs/ba-p/3664398
+[App-Service-4]: https://techcommunity.microsoft.com/t5/apps-on-azure-blog/a-lowered-cost-and-more-performant-wordpress-on-azure-appservice/ba-p/3647860
+[App-Service-5]: https://techcommunity.microsoft.com/t5/apps-on-azure-blog/save-up-to-54-vs-on-premises-and-up-to-35-vs-aws-by-migrating/ba-p/3596627
+[App-Service-6]: https://techcommunity.microsoft.com/t5/apps-on-azure-blog/celebrating-10-years-of-azure-app-service-s-free-tier/ba-p/3621148
+[App-Service-7]: https://azure.microsoft.com/en-us/blog/new-azure-app-service-plans-fuel-greater-choice-and-savings/
+[App-Service-8]: https://azure.microsoft.com/en-us/blog/forrester-study-finds-228-percent-roi-when-modernizing-applications-on-azure-paas/
 
 
 ### AKS
