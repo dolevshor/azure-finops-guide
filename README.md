@@ -177,6 +177,8 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 [Ryan-Lowell-2]: https://github.com/rlowellfl
 [Kaysie-Yu-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1222039
 [Nir-Mashkowski-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1200080
+[Saira-Shaik-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1017038
+[Saira-Shaik-2]: https://github.com/sairashaik6677
 
 ### General
 
@@ -244,8 +246,8 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 | :-----------------------                                           | :-----------------------                | :----------------------- | :----------------------- |
 | [Intro to Azure Advisor][Advisor-1]                                | 	Microsoft                              |                          | Microsoft Learn          |
 | [Get Started with Azure Advisor][Advisor-2]                        | 	Microsoft                              |                          | Microsoft Learn          |
-| [Functionality and Usage of Azure Advisor][Advisor-3]              | [John Savill][John-Savill-1]            | Jan 2022               | YouTube                  |
-| [Optimize your Azure environment with Azure Advisor][Advisor-4]    | [Thomas Maurer][Thomas-Maurer-1]        | Apr 2021               | YouTube                  |
+| [Functionality and Usage of Azure Advisor][Advisor-3]              | [John Savill][John-Savill-1]            | Jan 2022                 | YouTube                  |
+| [Optimize your Azure environment with Azure Advisor][Advisor-4]    | [Thomas Maurer][Thomas-Maurer-1]        | Apr 2021                 | YouTube                  |
 
 [//]: <> (Advisor links)
 [Advisor-1]: https://learn.microsoft.com/en-us/training/modules/intro-to-azure-advisor/
@@ -261,11 +263,15 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 | [Azure Reservations (Reserved Instances) Deep Dive][Reservations-1]| [John Savill][John-Savill-1]            | Dec 2021                 | YouTube                  |
 | [Reserved Instance and Capacity Reservations][Reservations-2]      | [John Savill][John-Savill-1]            | May 2022                 | YouTube                  |
 | [Understanding Azure Reservations vs Savings Plans][Reservations-3]| [Brandon Wilson][Brandon-Wilson-1]      | Dec 2022                 | Microsoft Tech Community |
+| [Azure Savings Dashboard][Reservations-4]                          | [Saira Shaik][Saira-Shaik-1]            | May 2023                 | Microsoft Tech Community |
+| [Azure Savings Dashboard Tool][Reservations-5]                     | [Saira Shaik][Saira-Shaik-2]            | May 2023                 | GitHub                   |
 
 [//]: <> (Reservations links)
 [Reservations-1]: https://www.youtube.com/watch?v=vpTDXenagcM
 [Reservations-2]: https://www.youtube.com/watch?v=43wX15ypp9Y
 [Reservations-3]: https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/quick-reference-understanding-azure-reservations-vs-savings/ba-p/3689070
+[Reservations-4]: https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-savings-dashboard/ba-p/3816131
+[Reservations-5]: https://github.com/sairashaik6677/azuresavingsdashboard
 
 List of services that supported reservations:
 ![image](https://user-images.githubusercontent.com/69309933/210773383-feb62978-433a-40fe-b425-744c832348ae.png)
@@ -282,7 +288,8 @@ List of services that supported reservations:
 | [View savings plan transactions][Saving-Plans-6]                   | Microsoft                               | Nov 2022                 | Microsoft Learn          |
 | [Charge back savings plan costs][Saving-Plans-7]                   | Microsoft                               | Feb 2023                 | Microsoft Learn          |
 | [Calculaye EA Cost savings][Saving-Plans-8]                        | Microsoft                               | Mar 2023                 | Microsoft Learn          |
-
+| [Azure Savings Dashboard][Saving-Plans-9]                          | [Saira Shaik][Saira-Shaik-1]            | May 2023                 | Microsoft Tech Community |
+| [Azure Savings Dashboard Tool][Saving-Plans-10]                    | [Saira Shaik][Saira-Shaik-2]            | May 2023                 | GitHub                   |
 
 
 [//]: <> (Savings Plans links)
@@ -294,7 +301,8 @@ List of services that supported reservations:
 [Saving-Plans-6]: https://learn.microsoft.com/en-us/azure/cost-management-billing/savings-plan/view-transactions
 [Saving-Plans-7]: https://learn.microsoft.com/en-us/azure/cost-management-billing/savings-plan/charge-back-costs
 [Saving-Plans-8]: https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/calculate-ea-reservations-savings
-
+[Saving-Plans-9]: https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-savings-dashboard/ba-p/3816131
+[Saving-Plans-10]: https://github.com/sairashaik6677/azuresavingsdashboard
 
 ### Azure Hybrid Benefit
 
