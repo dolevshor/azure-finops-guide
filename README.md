@@ -432,6 +432,8 @@ Additional topics that related to Virtual Machines:
 | [Optimize costs for Blob storage with reserved capacity][STG-7]    | Microsoft                               | Jul 2022                 | Microsoft Azure          |
 | [Estimate the cost of archiving data][STG-8]                       | Microsoft                               | Dec 2022                 | Microsoft Azure          |
 | [Part 2: Infra Cost Optimization In The Cloud – Practical Design Steps For Architects and Developers][STG-9] | [Shane Baldacchino][Shane-Baldacchino-1]| Aug 2022  | Microsoft Tech Community |
+| [Storage Accounts and cost optimization][STG-10]                   | Microsoft                               | Jan 2022                 | Microsoft Learn | Docs   |
+| [Calculate the size of a blob container with PowerShell][STG-11]   | Microsoft                               | Apr 2022                 | Microsoft Learn | Docs   |
 
 [//]: <> (Azure Hybrid Benefit links)
 [STG-1]: https://learn.microsoft.com/en-us/shows/azure-friday/optimizing-your-storage-costs-with-azure-blob-storage
@@ -443,6 +445,8 @@ Additional topics that related to Virtual Machines:
 [STG-7]: https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-reserved-capacity
 [STG-8]: https://learn.microsoft.com/en-us/azure/storage/blobs/archive-cost-estimation
 [STG-9]: https://techcommunity.microsoft.com/t5/azure-architecture-blog/part-2-infra-cost-optimisation-in-the-cloud-practical-design/ba-p/3602797
+[STG-10]: https://learn.microsoft.com/en-us/azure/well-architected/services/storage/storage-accounts/cost-optimization
+[STG-11]: https://learn.microsoft.com/en-us/azure/storage/scripts/storage-blobs-container-calculate-size-powershell
 
 
 ### Azure Monitor
