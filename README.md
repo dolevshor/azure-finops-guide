@@ -168,6 +168,7 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 [Anasheh-Boisvert-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1395198
 [Brandon-Wilson-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/140892
 [Helder-Pinto-1]: https://github.com/helderpinto
+[Helder-Pinto-2]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/453722
 [Chris-Bowman-1]: https://github.com/chris-bowman
 [Pranab-Paul-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1216949
 [Arthur-Clares-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/703269
@@ -459,12 +460,14 @@ Additional topics that related to Virtual Machines:
 | [Analyze usage in Log Analytics workspace][Monitor-2]              | Microsoft                               | Mar 2023                 | Microsoft Azure          |
 | [Set a table's log data plan to Basic or Analytics][Monitor-3]     | Microsoft                               | Jan 2023                 | Microsoft Azure          |
 | [Calculating Chargeback to Split Monitoring Costs Across Projects][Monitor-4]| [Bruno Gabrielli][Bruno-Gabrielli-1]|  Nov 2022          | Microsoft Tech Community |
+| [How to Allocate Azure Monitor Logs Ingestion Costs by Resource Tag][Monitor-5]| [Helder Pinto][Helder-Pinto-2]|  May 2023              | Microsoft Tech Community |
 
 [//]: <> (Azure Monitor links)
 [Monitor-1]: https://learn.microsoft.com/en-us/azure/azure-monitor/best-practices-cost
 [Monitor-2]: https://learn.microsoft.com/en-us/azure/azure-monitor/logs/analyze-usage
 [Monitor-3]: https://learn.microsoft.com/en-us/azure/azure-monitor/logs/basic-logs-configure
 [Monitor-4]: https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-calculating-chargeback-to-split-monitoring-costs/ba-p/3671760
+[Monitor-5]: https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-to-allocate-azure-monitor-logs-ingestion-costs-by-resource/ba-p/3813322
 
 
 ### Microsoft Sentinel
