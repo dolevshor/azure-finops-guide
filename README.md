@@ -266,6 +266,7 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 | [Understanding Azure Reservations vs Savings Plans][Reservations-3]| [Brandon Wilson][Brandon-Wilson-1]      | Dec 2022                 | Microsoft Tech Community |
 | [Azure Savings Dashboard][Reservations-4]                          | [Saira Shaik][Saira-Shaik-1]            | May 2023                 | Microsoft Tech Community |
 | [Azure Savings Dashboard Tool][Reservations-5]                     | [Saira Shaik][Saira-Shaik-2]            | May 2023                 | GitHub                   |
+| [Reservation utilization alerts][Reservations-6]                   | Microsoft                               | May 2023                 | Microsoft Learn \| Docs  |
 
 [//]: <> (Reservations links)
 [Reservations-1]: https://www.youtube.com/watch?v=vpTDXenagcM
@@ -273,6 +274,7 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 [Reservations-3]: https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/quick-reference-understanding-azure-reservations-vs-savings/ba-p/3689070
 [Reservations-4]: https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-savings-dashboard/ba-p/3816131
 [Reservations-5]: https://github.com/sairashaik6677/azuresavingsdashboard
+[Reservations-6]: https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/reservation-utilization-alerts
 
 List of services that supported reservations:
 ![image](https://user-images.githubusercontent.com/69309933/210773383-feb62978-433a-40fe-b425-744c832348ae.png)
