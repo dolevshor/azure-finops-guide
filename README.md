@@ -399,6 +399,7 @@ Additional topics that related to Virtual Machines:
 | [AKS Container Insights logging level and associated costs][AKS-4] | [Orestis Meikopoulos][Orestis-Meikopoulos-1] | Nov 2022           | Microsoft Tech Community  |
 | [Azure Hybrid Benefit for Azure Kubernetes Service (AKS)][AKS-5]   | Microsoft                               | Jul 2022                | Microsoft Learn | Docs    |
 | [Leverage OpenCost on Azure Kubernetes Service to understand and monitor your infrastructure spend][AKS-6] | [Kaysie Yu][Kaysie-Yu-1] | Apr 2023 | Microsoft Tech Community  |
+| [Container insights - Cluster Optimization Workbook][AKS-7]        | Microsoft                               | May 2023                | Microsoft Learn | Docs    |
 
 
 
@@ -409,6 +410,7 @@ Additional topics that related to Virtual Machines:
 [AKS-4]: https://techcommunity.microsoft.com/t5/fasttrack-for-azure/aks-container-insights-logging-level-and-associated-costs/ba-p/3684224
 [AKS-5]: https://learn.microsoft.com/en-us/azure/aks/hybrid/azure-hybrid-benefit
 [AKS-6]: https://techcommunity.microsoft.com/t5/apps-on-azure-blog/leverage-opencost-on-azure-kubernetes-service-to-understand-and/ba-p/3796813
+[AKS-7]: https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-reports#cluster-optimization-workbook
 
 ### Azure Stack HCI
 
