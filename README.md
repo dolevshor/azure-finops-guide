@@ -19,6 +19,7 @@ The main purposes of this guide is to do more with less by:
 - [Learning](#learning)
   - [Learning Paths](#learning-paths)
   - [Learning Modules](#learning-modules)
+- [Books](#books)
 - [Content](#content)
   - [General](#general)
   - [Calculators](#calculators)
@@ -123,6 +124,20 @@ List of learning path references related to FinOps on Azure:
 [Learning-M-4]: https://learn.microsoft.com/en-us/training/modules/save-money-with-azure-reserved-instances/
 [Learning-M-5]: https://learn.microsoft.com/en-us/training/modules/optimize-costs-data-analysis-powerbi/
 [Learning-M-6]: https://learn.microsoft.com/en-us/training/modules/manage-costs-partner-cost-management/
+
+
+## Books
+List of books references related to FinOps on Azure:
+
+| Book Name                                      | Description                                                                     | Author                    | Published                | Channel                  |
+| :-----------------------                       | :-----------------------                                                        | :-----------------------  | :----------------------- | :----------------------- |
+| [FinOps with Azure][Books-1]                   | Bringing FinOps to life through organizational and cultural alignment           | Microsoft                 | May 2022                 | Microsoft E-books        |
+| [The Road to Azure Cost Governance][Books-2]   | Techniques to tame your monthly Azure bill with a continuous optimization journey for your apps | Paola E. Annis <br /> Giuliano Caglio | Nov 2022 | Microsoft E-books |
+| [FinOps Handbook for Microsoft Azure][Books-3] | Empowering teams to optimize their Azure Cloud spend with FinOps best practices | Maulik Soni               | May 2023                 | O'Reilly                 |
+
+[Books-1]: https://azure.microsoft.com/en-us/resources/finops-with-azure-bringing-finops-to-life-through-organizational-and-cultural-alignment
+[Books-2]: https://azure.microsoft.com/en-us/resources/the-road-to-azure-cost-governance
+[Books-3]: https://www.oreilly.com/library/view/finops-handbook-for/9781801810166
 
 
 
