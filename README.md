@@ -37,6 +37,7 @@ The main purposes of this guide is to do more with less by:
   - [Azure Monitor](#azure-monitor)
   - [Microsoft Sentinel](#microsoft-sentinel)
   - [Azure Virtual Desktop](#azure-virtual-desktop)
+  - [Front Door](#front-door)
   - [Data](#data)
     - [Azure Synapse](#azure-synapse)
     - [Azure SQL Database](#azure-sql-database)
@@ -515,6 +516,18 @@ Additional topics that related to Virtual Machines:
 [AVD-1]: https://learn.microsoft.com/en-us/training/modules/m365-optimize-wvd/
 [AVD-2]: https://techcommunity.microsoft.com/t5/azure-virtual-desktop-blog/new-ways-to-optimize-flexibility-improve-security-and-reduce/ba-p/3650895
 [AVD-3]: https://ignite.microsoft.com/en-US/sessions/e016948a-1646-420e-9597-fae2b6d3ce29
+
+
+### Front Door
+
+| Topic                                                              | Author                                  | Published                | Channel                  |
+| :-----------------------                                           | :-----------------------                | :----------------------- | :----------------------- |
+| [Understand Azure Front Door billing][FrontDoor-1]                 | Microsoft                               | Feb 2023                 | Microsoft Learn \| Docs  |
+| [Compare pricing between Azure Front Door tiers][FrontDoor-2]      | Microsoft                               | Jun 2023                 | Microsoft Learn \| Docs  |
+
+[//]: <> (Front Door links)
+[FrontDoor-1]: https://learn.microsoft.com/en-us/azure/frontdoor/billing
+[FrontDoor-2]: https://learn.microsoft.com/en-us/azure/frontdoor/understanding-pricing#cost-assessment
 
 
 ### Data
