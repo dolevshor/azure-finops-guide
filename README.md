@@ -590,7 +590,7 @@ Additional topics that related to Virtual Machines:
 | :-----------------------                                           | :-----------------------                | :----------------------- | :----------------------- |
 | [How to optimize costs in Azure Database for Postgres Flexible Server][PostgeSQL-1] | Microsoft              | Apr 2023                 | Microsoft Learn \| Docs  |
 | [How to auto-scale an Azure Database for MySQL/PostgreSQL instance with Azure run books and Python][PostgeSQL-2]| [Julio Calderón][Julio-Calderón-1]| Mar 2019| Microsoft Tech Community|
-| [Azure Database for MySQL and cost optimization][PostgeSQL-3]      | Microsoft                               | May 2023               | Microsoft Learn \| Docs  |
+| [Azure Database for PostgreSQL and cost optimization][PostgeSQL-3]      | Microsoft                               | May 2023               | Microsoft Learn \| Docs  |
 
 [//]: <> (Azure Database for PostgreSQL links)
 [PostgeSQL-1]: https://learn.microsoft.com/en-us/azure/postgresql/flexible-server/how-to-cost-optimization
