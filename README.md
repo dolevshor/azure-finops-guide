@@ -37,7 +37,9 @@ The main purposes of this guide is to do more with less by:
   - [Azure Monitor](#azure-monitor)
   - [Microsoft Sentinel](#microsoft-sentinel)
   - [Azure Virtual Desktop](#azure-virtual-desktop)
-  - [Front Door](#front-door)
+  - [Networking](#networking) 
+    - [Azure Front Door](#azure-front-door)
+    - [Azure Application Gateway](#azure-application-gateway)
   - [Data](#data)
     - [Azure Synapse](#azure-synapse)
     - [Azure SQL Database](#azure-sql-database)
@@ -518,7 +520,9 @@ Additional topics that related to Virtual Machines:
 [AVD-3]: https://ignite.microsoft.com/en-US/sessions/e016948a-1646-420e-9597-fae2b6d3ce29
 
 
-### Front Door
+### Networking
+
+#### Azure Front Door
 
 | Topic                                                              | Author                                  | Published                | Channel                  |
 | :-----------------------                                           | :-----------------------                | :----------------------- | :----------------------- |
@@ -528,6 +532,15 @@ Additional topics that related to Virtual Machines:
 [//]: <> (Front Door links)
 [FrontDoor-1]: https://learn.microsoft.com/en-us/azure/frontdoor/billing
 [FrontDoor-2]: https://learn.microsoft.com/en-us/azure/frontdoor/understanding-pricing#cost-assessment
+
+#### Azure Application Gateway
+
+| Topic                                                              | Author                                  | Published                | Channel                  |
+| :-----------------------                                           | :-----------------------                | :----------------------- | :----------------------- |
+| [Understanding Pricing for Azure Application Gateway and Web Application Firewall][AppGW-1] | Microsoft      | Jan 2023                 | Microsoft Learn \| Docs  |
+
+[//]: <> (Azure Application Gateway links)
+[AppGW-1]: https://learn.microsoft.com/en-us/azure/application-gateway/understanding-pricing
 
 
 ### Data
