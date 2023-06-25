@@ -574,12 +574,14 @@ Additional topics that related to Virtual Machines:
 
 | Topic                                                              | Author                                  | Published                | Channel                  |
 | :-----------------------                                           | :-----------------------                | :----------------------- | :----------------------- |
-| [Azure Database for MySQL and cost optimization][MySQL-1]          | Microsoft                               | Dec 2022               | Microsoft Learn \| Docs  |
+| [Prepay for Azure Database for MySQL compute resources with reserved instances][MySQL-1] | Microsoft         | Sep 2022                 | Microsoft Learn \| Docs  |
 | [How to auto-scale an Azure Database for MySQL/PostgreSQL instance with Azure run books and Python][MySQL-2]| [Julio Calderón][Julio-Calderón-1]| Mar 2019| Microsoft Tech Community|
+| [Azure Database for MySQL and cost optimization][MySQL-3]          | Microsoft                               | Dec 2022               | Microsoft Learn \| Docs  |
 
-[//]: <> (Azure SQL Database links)
-[MySQL-1]: https://learn.microsoft.com/en-us/azure/architecture/framework/services/data/azure-db-mysql/cost-optimization
+[//]: <> (Azure Database for MySQL links)
+[MySQL-1]: https://learn.microsoft.com/en-us/azure/mysql/single-server/concept-reserved-pricing
 [MySQL-2]: https://techcommunity.microsoft.com/t5/azure-database-support-blog/how-to-auto-scale-an-azure-database-for-mysql-postgresql/ba-p/369177
+[MySQL-3]: https://learn.microsoft.com/en-us/azure/architecture/framework/services/data/azure-db-mysql/cost-optimization
 
 
 #### Azure Database for PostgreSQL
