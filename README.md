@@ -586,12 +586,14 @@ Additional topics that related to Virtual Machines:
 
 | Topic                                                              | Author                                  | Published                | Channel                  |
 | :-----------------------                                           | :-----------------------                | :----------------------- | :----------------------- |
-| [Azure Database for MySQL and cost optimization][PostgeSQL-1]      | Microsoft                               | Dec 2022               | Microsoft Learn \| Docs  |
+| [How to optimize costs in Azure Database for Postgres Flexible Server][PostgeSQL-1] | Microsoft              | Apr 2023                 | Microsoft Learn \| Docs  |
 | [How to auto-scale an Azure Database for MySQL/PostgreSQL instance with Azure run books and Python][PostgeSQL-2]| [Julio Calderón][Julio-Calderón-1]| Mar 2019| Microsoft Tech Community|
+| [Azure Database for MySQL and cost optimization][PostgeSQL-3]      | Microsoft                               | May 2023               | Microsoft Learn \| Docs  |
 
 [//]: <> (Azure Database for PostgreSQL links)
-[PostgeSQL-1]: https://learn.microsoft.com/en-us/azure/architecture/framework/services/data/azure-db-postgresql/cost-optimization
+[PostgeSQL-1]: https://learn.microsoft.com/en-us/azure/postgresql/flexible-server/how-to-cost-optimization
 [PostgeSQL-2]: https://techcommunity.microsoft.com/t5/azure-database-support-blog/how-to-auto-scale-an-azure-database-for-mysql-postgresql/ba-p/369177
+[PostgeSQL-3]: https://learn.microsoft.com/en-us/azure/architecture/framework/services/data/azure-db-postgresql/cost-optimization
 
 
 #### Azure Cosmos DB
