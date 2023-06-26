@@ -48,6 +48,9 @@ The main purposes of this guide is to do more with less by:
     - [Azure Database for PostgreSQL](#azure-database-for-postgresql)
     - [Azure Cosmos DB](#azure-cosmos-db)
     - [Stream Analytics](#stream-analytics)
+  - [Cognitive Services](#cognitive-services)
+    - [Azure OpenAI](#azure-openai)
+
 
 ## Tools
 The table below contains a collection of native tools that are related to FinOps on Azure.
@@ -629,3 +632,15 @@ Additional topics that related to Virtual Machines:
 
 [//]: <> (Azure Stream Analytics links)
 [Stream-1]: https://techcommunity.microsoft.com/t5/analytics-on-azure-blog/optimize-your-stream-analytics-job-and-reduce-costs-with/ba-p/3423493
+
+
+### Cognitive Services
+
+#### Azure OpenAI
+
+| Topic                                                              | Author                                  | Published                | Channel                  |
+| :-----------------------                                           | :-----------------------                | :----------------------- | :----------------------- |
+| [Plan to manage costs for Azure OpenAI Service][OpenAI-1]          | Microsoft                               | Apr 2023                 | Microsoft Learn \| Docs  |
+
+[//]: <> (Azure OpenAI links)
+[OpenAI-1]: https://learn.microsoft.com/en-us/azure/cognitive-services/openai/how-to/manage-costs
