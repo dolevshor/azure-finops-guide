@@ -37,17 +37,18 @@ The main purposes of this guide is to do more with less by:
   - [Azure Monitor](#azure-monitor)
   - [Microsoft Sentinel](#microsoft-sentinel)
   - [Azure Virtual Desktop](#azure-virtual-desktop)
+  - [Azure Logic Apps](#azure-logic-apps)
   - [Networking](#networking) 
     - [Azure Front Door](#azure-front-door)
     - [Azure Application Gateway](#azure-application-gateway)
   - [Data](#data)
     - [Azure Synapse](#azure-synapse)
     - [Azure SQL Database](#azure-sql-database)
-    - [SQL Managed Instance](#sql-managed-instance)
+    - [Azure SQL Managed Instance](#azure-sql-managed-instance)
     - [Azure Database for MySQL](#azure-database-for-mysql)
     - [Azure Database for PostgreSQL](#azure-database-for-postgresql)
     - [Azure Cosmos DB](#azure-cosmos-db)
-    - [Stream Analytics](#stream-analytics)
+    - [Azure Stream Analytics](#azure-stream-analytics)
   - [Cognitive Services](#cognitive-services)
     - [Azure OpenAI](#azure-openai)
 
@@ -523,6 +524,21 @@ Additional topics that related to Virtual Machines:
 [AVD-3]: https://ignite.microsoft.com/en-US/sessions/e016948a-1646-420e-9597-fae2b6d3ce29
 
 
+### Azure Logic Apps
+
+| Topic                                                              | Author                                  | Published                | Channel                  |
+| :-----------------------                                           | :-----------------------                | :----------------------- | :----------------------- |
+| [Plan and manage costs for Azure Logic Apps][LogicApps-1]          | Microsoft                               | Sep 2022                 | Microsoft Learn \| Docs  |
+| [Usage metering, billing, and pricing for Azure Logic Apps][LogicApps-2] | Microsoft                         | Apr 2023                 | Microsoft Learn \| Docs  |
+| [Estimate storage costs for Standard logic app workflows in single-tenant Azure Logic Apps][LogicApps-3] | Microsoft | Aug 2022         | Microsoft Learn \| Docs  |
+
+
+[//]: <> (Azure Logic Apps links)
+[LogicApps-1]: https://learn.microsoft.com/en-us/azure/logic-apps/plan-manage-costs
+[LogicApps-2]: https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-pricing
+[LogicApps-3]: https://learn.microsoft.com/en-us/azure/logic-apps/estimate-storage-costs
+
+
 ### Networking
 
 #### Azure Front Door
@@ -574,7 +590,7 @@ Additional topics that related to Virtual Machines:
 [SQL-2]: https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/data-processed
 
 
-#### SQL Managed Instance
+#### Azure SQL Managed Instance
 
 | Topic                                                              | Author                                  | Published                | Channel                  |
 | :-----------------------                                           | :-----------------------                | :----------------------- | :----------------------- |
@@ -624,7 +640,7 @@ Additional topics that related to Virtual Machines:
 [Cosmos-1]: https://learn.microsoft.com/en-us/azure/cosmos-db/plan-manage-costs
 
 
-#### Stream Analytics
+#### Azure Stream Analytics
 
 | Topic                                                              | Author                                  | Published                | Channel                  |
 | :-----------------------                                           | :-----------------------                | :----------------------- | :----------------------- |
