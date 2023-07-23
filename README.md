@@ -49,6 +49,7 @@ The main purposes of this guide is to do more with less by:
     - [Azure Database for PostgreSQL](#azure-database-for-postgresql)
     - [Azure Cosmos DB](#azure-cosmos-db)
     - [Azure Stream Analytics](#azure-stream-analytics)
+    - [Azure Databricks](#azure-databricks)
   - [Cognitive Services](#cognitive-services)
     - [Azure OpenAI](#azure-openai)
 
@@ -656,6 +657,17 @@ Additional topics that related to Virtual Machines:
 [//]: <> (Azure Stream Analytics links)
 [Stream-1]: https://techcommunity.microsoft.com/t5/analytics-on-azure-blog/optimize-your-stream-analytics-job-and-reduce-costs-with/ba-p/3423493
 
+
+#### Azure Databricks
+
+| Topic                                                              | Author                                  | Published                | Channel                  |
+| :-----------------------                                           | :-----------------------                | :----------------------- | :----------------------- |
+| [Cost optimization for the data lakehouse][Databricks-1]           | Microsoft                               | May 2023                 | Microsoft Learn \| Docs  |
+| [Best practices for cost optimization][Databricks-2]               | Microsoft                               | Jun 2023                 | Microsoft Learn \| Docs  |
+
+[//]: <> (Azure Databricks links)
+[Databricks-1]: https://learn.microsoft.com/en-us/azure/databricks/lakehouse-architecture/cost-optimization
+[Databricks-2]: https://learn.microsoft.com/en-us/azure/databricks/lakehouse-architecture/cost-optimization/best-practices
 
 ### Cognitive Services
 
