@@ -417,24 +417,31 @@ Additional topics that related to Virtual Machines:
 
 | Topic                                                              | Author                                  | Published                | Channel                  |
 | :-----------------------                                           | :-----------------------                | :----------------------- | :----------------------- |
-| [Optimize compute costs on Azure Kubernetes Service (AKS)][AKS-1]  | Microsoft                               |                          | Microsoft Learn | Training |
-| [How to reduce the total cost of ownership (TCO) of your Azure Kubernetes Service (AKS) cluster][AKS-2] | [Paolo Salvatori][Paolo-Salvatori-1] | 	Jan 2023 | Microsoft Tech Community |
-| [Azure Kubernetes Service (AKS) – Cost Optimization Techniques][AKS-3] | [Chee Keong Tan][Chee-Keong-Tan-1]  | Oct 2022                | Microsoft Tech Community  |
-| [AKS Container Insights logging level and associated costs][AKS-4] | [Orestis Meikopoulos][Orestis-Meikopoulos-1] | Nov 2022           | Microsoft Tech Community  |
-| [Azure Hybrid Benefit for Azure Kubernetes Service (AKS)][AKS-5]   | Microsoft                               | Jul 2022                | Microsoft Learn | Docs    |
-| [Leverage OpenCost on Azure Kubernetes Service to understand and monitor your infrastructure spend][AKS-6] | [Kaysie Yu][Kaysie-Yu-1] | Apr 2023 | Microsoft Tech Community  |
-| [Container insights - Cluster Optimization Workbook][AKS-7]        | Microsoft                               | May 2023                | Microsoft Learn | Docs    |
-
+| [Optimize compute costs on Azure Kubernetes Service (AKS)][AKS-1]  | Microsoft                               |                          | Microsoft Learn \| Training |
+| [Optimize costs in Azure Kubernetes Service (AKS)][AKS-2]          | Microsoft                               | Apr 2023                 | Microsoft Learn \| Docs |
+| [Cost management for Kubernetes][AKS-3]                            | Microsoft                               | Jan 2023                 | Microsoft Learn \| Docs |
+| [Cost governance with Kubecost][AKS-4]                             | Microsoft                               | Jun 2023                | Microsoft Learn \| Docs |
+| [How to reduce the total cost of ownership (TCO) of your Azure Kubernetes Service (AKS) cluster][AKS-5] | [Paolo Salvatori][Paolo-Salvatori-1] | 	Jan 2023 | Microsoft Tech Community |
+| [Azure Kubernetes Service (AKS) – Cost Optimization Techniques][AKS-6] | [Chee Keong Tan][Chee-Keong-Tan-1]  | Oct 2022                | Microsoft Tech Community  |
+| [AKS Container Insights logging level and associated costs][AKS-7] | [Orestis Meikopoulos][Orestis-Meikopoulos-1] | Nov 2022           | Microsoft Tech Community  |
+| [Azure Hybrid Benefit for Azure Kubernetes Service (AKS)][AKS-8]   | Microsoft                               | Jul 2022                | Microsoft Learn \| Docs    |
+| [Leverage OpenCost on Azure Kubernetes Service to understand and monitor your infrastructure spend][AKS-9] | [Kaysie Yu][Kaysie-Yu-1] | Apr 2023 | Microsoft Tech Community  |
+| [Container insights - Cluster Optimization Workbook][AKS-10]       | Microsoft                               | May 2023                | Microsoft Learn \| Docs    |
+| [Understand monitoring costs for Container insights][AKS-11]       | Microsoft                               | May 2023                 | Microsoft Learn \| Docs |
 
 
 [//]: <> (AKS links)
 [AKS-1]: https://learn.microsoft.com/en-us/training/modules/aks-optimize-compute-costs
-[AKS-2]: https://techcommunity.microsoft.com/t5/fasttrack-for-azure/how-to-reduce-the-total-cost-of-ownership-tco-of-your-azure/ba-p/3706895
-[AKS-3]: https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-kubernetes-service-aks-cost-optimization-techniques/ba-p/3652908
-[AKS-4]: https://techcommunity.microsoft.com/t5/fasttrack-for-azure/aks-container-insights-logging-level-and-associated-costs/ba-p/3684224
-[AKS-5]: https://learn.microsoft.com/en-us/azure/aks/hybrid/azure-hybrid-benefit
-[AKS-6]: https://techcommunity.microsoft.com/t5/apps-on-azure-blog/leverage-opencost-on-azure-kubernetes-service-to-understand-and/ba-p/3796813
-[AKS-7]: https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-reports#cluster-optimization-workbook
+[AKS-2]: https://learn.microsoft.com/en-us/azure/aks/best-practices-cost
+[AKS-3]: https://learn.microsoft.com/en-us/azure/architecture/aws-professional/eks-to-aks/cost-management
+[AKS-4]: https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/app-platform/aks/cost-governance-with-kubecost
+[AKS-5]: https://techcommunity.microsoft.com/t5/fasttrack-for-azure/how-to-reduce-the-total-cost-of-ownership-tco-of-your-azure/ba-p/3706895
+[AKS-6]: https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-kubernetes-service-aks-cost-optimization-techniques/ba-p/3652908
+[AKS-7]: https://techcommunity.microsoft.com/t5/fasttrack-for-azure/aks-container-insights-logging-level-and-associated-costs/ba-p/3684224
+[AKS-8]: https://learn.microsoft.com/en-us/azure/aks/hybrid/azure-hybrid-benefit
+[AKS-9]: https://techcommunity.microsoft.com/t5/apps-on-azure-blog/leverage-opencost-on-azure-kubernetes-service-to-understand-and/ba-p/3796813
+[AKS-10]: https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-reports#cluster-optimization-workbook
+[AKS-11]: https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-cost#estimating-costs-to-monitor-your-aks-cluster
 
 ### Azure Stack HCI
 
