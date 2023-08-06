@@ -492,16 +492,20 @@ Additional topics that related to Virtual Machines:
 | :-----------------------                                           | :-----------------------                | :----------------------- | :----------------------- |
 | [Cost optimization and Azure Monitor][Monitor-1]                   | Microsoft                               | Dec 2022                 | Microsoft Azure          |
 | [Analyze usage in Log Analytics workspace][Monitor-2]              | Microsoft                               | Mar 2023                 | Microsoft Azure          |
-| [Set a table's log data plan to Basic or Analytics][Monitor-3]     | Microsoft                               | Jan 2023                 | Microsoft Azure          |
-| [Calculating Chargeback to Split Monitoring Costs Across Projects][Monitor-4]| [Bruno Gabrielli][Bruno-Gabrielli-1]|  Nov 2022          | Microsoft Tech Community |
-| [How to Allocate Azure Monitor Logs Ingestion Costs by Resource Tag][Monitor-5]| [Helder Pinto][Helder-Pinto-2]|  May 2023              | Microsoft Tech Community |
+| [Azure Monitor Logs cost calculations and options][Monitor-3]      | Microsoft                               | Jun 2023                 | Microsoft Azure          |
+| [Azure Monitor cost and usage][Monitor-4]                          | Microsoft                               | Apr 2023                 | Microsoft Azure          |
+| [Set a table's log data plan to Basic or Analytics][Monitor-5]     | Microsoft                               | Jan 2023                 | Microsoft Azure          |
+| [Calculating Chargeback to Split Monitoring Costs Across Projects][Monitor-6]| [Bruno Gabrielli][Bruno-Gabrielli-1]|  Nov 2022          | Microsoft Tech Community |
+| [How to Allocate Azure Monitor Logs Ingestion Costs by Resource Tag][Monitor-7]| [Helder Pinto][Helder-Pinto-2]|  May 2023              | Microsoft Tech Community |
 
 [//]: <> (Azure Monitor links)
 [Monitor-1]: https://learn.microsoft.com/en-us/azure/azure-monitor/best-practices-cost
 [Monitor-2]: https://learn.microsoft.com/en-us/azure/azure-monitor/logs/analyze-usage
-[Monitor-3]: https://learn.microsoft.com/en-us/azure/azure-monitor/logs/basic-logs-configure
-[Monitor-4]: https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-calculating-chargeback-to-split-monitoring-costs/ba-p/3671760
-[Monitor-5]: https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-to-allocate-azure-monitor-logs-ingestion-costs-by-resource/ba-p/3813322
+[Monitor-3]: https://learn.microsoft.com/en-us/azure/azure-monitor/usage-estimated-costs
+[Monitor-4]: https://learn.microsoft.com/en-us/azure/azure-monitor/logs/cost-logs
+[Monitor-5]: https://learn.microsoft.com/en-us/azure/azure-monitor/logs/basic-logs-configure
+[Monitor-6]: https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-calculating-chargeback-to-split-monitoring-costs/ba-p/3671760
+[Monitor-7]: https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-to-allocate-azure-monitor-logs-ingestion-costs-by-resource/ba-p/3813322
 
 
 ### Microsoft Sentinel
