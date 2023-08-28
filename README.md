@@ -203,6 +203,7 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 [Nir-Mashkowski-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1200080
 [Saira-Shaik-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1017038
 [Saira-Shaik-2]: https://github.com/sairashaik6677
+[Jeremy-Tan-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/215052
 
 ### General
 
@@ -512,14 +513,20 @@ Additional topics that related to Virtual Machines:
 
 | Topic                                                              | Author                                  | Published                | Channel                  |
 | :-----------------------                                           | :-----------------------                | :----------------------- | :----------------------- |
-| [Ingestion Cost Spike Detection Playbook][Sentinel-1]              | [Innocent Wafula][Innocent-Wafula-1]    | Aug 2021               | Microsoft Tech Community |
-| [Ingestion Cost Alert Playbook][Sentinel-2]                        | [Innocent Wafula][Innocent-Wafula-1]    | Dec 2022               | Microsoft Tech Community |
-| [Cost Management in Azure Sentinel][Sentinel-3]                    | Javier Soriano <br /> Jeremy Tan <br /> Innocent Wafula| Jun 2021| YouTube                  |
+| [Manage and monitor costs for Microsoft Sentinel][Sentinel-1]      | Microsoft                               | Jul 2023                 | Microsoft Learn \| Docs  |
+| [Reduce costs for Microsoft Sentinel][Sentinel-2]                  | Microsoft                               | Jul 2023                 | Microsoft Learn \| Docs  |
+| [Ingestion Cost Spike Detection Playbook][Sentinel-3]              | [Innocent Wafula][Innocent-Wafula-1]    | Aug 2021                 | Microsoft Tech Community |
+| [Ingestion Cost Alert Playbook][Sentinel-4]                        | [Innocent Wafula][Innocent-Wafula-1]    | Dec 2022                 | Microsoft Tech Community |
+| [Cost Management in Azure Sentinel][Sentinel-5]                    | Javier Soriano <br /> Jeremy Tan <br /> Innocent Wafula| Jun 2021  | YouTube                  |
+| [Introducing Microsoft Sentinel Optimization Workbook][Sentinel-6] | [Jeremy Tan][Jeremy-Tan-1]              | Aug 2022                 | Microsoft Tech Community |
 
 [//]: <> (Azure Sentinel links)
-[Sentinel-1]: https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingestion-cost-spike-detection-playbook/ba-p/2591301
-[Sentinel-2]: https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingestion-cost-alert-playbook/ba-p/2006003
-[Sentinel-3]: https://www.youtube.com/watch?v=jZjBK2oRCsM
+[Sentinel-1]: https://learn.microsoft.com/en-us/azure/sentinel/billing-monitor-costs
+[Sentinel-2]: https://learn.microsoft.com/en-us/azure/sentinel/billing-reduce-costs
+[Sentinel-3]: https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingestion-cost-spike-detection-playbook/ba-p/2591301
+[Sentinel-4]: https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/ingestion-cost-alert-playbook/ba-p/2006003
+[Sentinel-5]: https://www.youtube.com/watch?v=jZjBK2oRCsM
+[Sentinel-6]: https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/introducing-microsoft-sentinel-optimization-workbook/ba-p/3901489
 
 
 ### Azure Virtual Desktop
