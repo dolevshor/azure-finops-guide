@@ -518,7 +518,7 @@ Additional topics that related to Virtual Machines:
 | [Ingestion Cost Spike Detection Playbook][Sentinel-3]              | [Innocent Wafula][Innocent-Wafula-1]    | Aug 2021                 | Microsoft Tech Community |
 | [Ingestion Cost Alert Playbook][Sentinel-4]                        | [Innocent Wafula][Innocent-Wafula-1]    | Dec 2022                 | Microsoft Tech Community |
 | [Cost Management in Azure Sentinel][Sentinel-5]                    | Javier Soriano <br /> Jeremy Tan <br /> Innocent Wafula| Jun 2021  | YouTube                  |
-| [Introducing Microsoft Sentinel Optimization Workbook][Sentinel-6] | [Jeremy Tan][Jeremy-Tan-1]              | Aug 2022                 | Microsoft Tech Community |
+| [Introducing Microsoft Sentinel Optimization Workbook][Sentinel-6] | [Jeremy Tan][Jeremy-Tan-1]              | Aug 2023                 | Microsoft Tech Community |
 
 [//]: <> (Azure Sentinel links)
 [Sentinel-1]: https://learn.microsoft.com/en-us/azure/sentinel/billing-monitor-costs
