@@ -206,6 +206,8 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 [Jeremy-Tan-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/215052
 [Shishir-Garde-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1873751
 [Shikha-Sinha-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1566597
+[Oren-Salzberg-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/733057
+
 
 ### General
 
@@ -500,6 +502,7 @@ Additional topics that related to Virtual Machines:
 | [Set a table's log data plan to Basic or Analytics][Monitor-5]     | Microsoft                               | Jan 2023                 | Microsoft Azure          |
 | [Calculating Chargeback to Split Monitoring Costs Across Projects][Monitor-6]| [Bruno Gabrielli][Bruno-Gabrielli-1]|  Nov 2022          | Microsoft Tech Community |
 | [How to Allocate Azure Monitor Logs Ingestion Costs by Resource Tag][Monitor-7]| [Helder Pinto][Helder-Pinto-2]|  May 2023              | Microsoft Tech Community |
+| [Azure Monitor cost optimization using Azure Advisor][Monitor-8]   | [Oren Salzberg][Oren-Salzberg-1]        |  Sep 2023                | Microsoft Tech Community |
 
 [//]: <> (Azure Monitor links)
 [Monitor-1]: https://learn.microsoft.com/en-us/azure/azure-monitor/best-practices-cost
@@ -509,6 +512,7 @@ Additional topics that related to Virtual Machines:
 [Monitor-5]: https://learn.microsoft.com/en-us/azure/azure-monitor/logs/basic-logs-configure
 [Monitor-6]: https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-monitor-calculating-chargeback-to-split-monitoring-costs/ba-p/3671760
 [Monitor-7]: https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-to-allocate-azure-monitor-logs-ingestion-costs-by-resource/ba-p/3813322
+[Monitor-8]: https://techcommunity.microsoft.com/t5/azure-observability-blog/azure-monitor-cost-optimization-using-azure-advisor/ba-p/3917488
 
 
 ### Microsoft Sentinel
