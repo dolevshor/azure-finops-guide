@@ -204,6 +204,8 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 [Saira-Shaik-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1017038
 [Saira-Shaik-2]: https://github.com/sairashaik6677
 [Jeremy-Tan-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/215052
+[Shishir-Garde-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1873751
+[Shikha-Sinha-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1566597
 
 ### General
 
@@ -686,7 +688,11 @@ Additional topics that related to Virtual Machines:
 
 | Topic                                                              | Author                                  | Published                | Channel                  |
 | :-----------------------                                           | :-----------------------                | :----------------------- | :----------------------- |
-| [Plan to manage costs for Azure OpenAI Service][OpenAI-1]          | Microsoft                               | Apr 2023                 | Microsoft Learn \| Docs  |
+| [Plan to manage costs for Azure OpenAI Service][OpenAI-1]          | Microsoft                               | Aug 2023                 | Microsoft Learn \| Docs  |
+| [Azure Budgets and Azure OpenAI Cost Management][OpenAI-2] | [Shishir Garde][Shishir-Garde-1]| Aug 2023     | Microsoft Tech Community |
+| [Calculating Chargebacks for Business Units/Projects Utilizing a Shared Azure OpenAI Instance][OpenAI-3] | [Shikha Sinha][Shikha-Sinha-1]| Aug 2023     | Microsoft Tech Community |
 
 [//]: <> (Azure OpenAI links)
 [OpenAI-1]: https://learn.microsoft.com/en-us/azure/cognitive-services/openai/how-to/manage-costs
+[OpenAI-2]: https://techcommunity.microsoft.com/t5/azure-governance-and-management/azure-budgets-and-azure-openai-cost-management/ba-p/3904833
+[OpenAI-3]: https://techcommunity.microsoft.com/t5/apps-on-azure-blog/calculating-chargebacks-for-business-units-projects-utilizing-a/ba-p/3909202
