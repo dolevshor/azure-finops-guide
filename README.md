@@ -207,6 +207,7 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 [Shishir-Garde-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1873751
 [Shikha-Sinha-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1566597
 [Oren-Salzberg-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/733057
+[Yoav-Dobrin-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1306386
 
 
 ### General
@@ -474,7 +475,8 @@ Additional topics that related to Virtual Machines:
 | [Part 2: Infra Cost Optimization In The Cloud – Practical Design Steps For Architects and Developers][STG-9] | [Shane Baldacchino][Shane-Baldacchino-1]| Aug 2022  | Microsoft Tech Community |
 | [Storage Accounts and cost optimization][STG-10]                   | Microsoft                               | Jan 2022                 | Microsoft Learn | Docs   |
 | [Calculate the size of a blob container with PowerShell][STG-11]   | Microsoft                               | Apr 2022                 | Microsoft Learn | Docs   |
-| [Calculate the total billing size of a blob container][STG-11]     | Microsoft                               | Mar 2023                 | Microsoft Learn | Docs   |
+| [Calculate the total billing size of a blob container][STG-12]     | Microsoft                               | Mar 2023                 | Microsoft Learn | Docs   |
+| [BlobInsight: Your Deep Dive into Smart Blob Lifecycle Management][STG-13]| [Yoav Dobrin][Yoav-Dobrin-1]     | Sep 2023                 | Microsoft Tech Community |
 
 [//]: <> (Storage links)
 [STG-1]: https://learn.microsoft.com/en-us/shows/azure-friday/optimizing-your-storage-costs-with-azure-blob-storage
@@ -489,6 +491,7 @@ Additional topics that related to Virtual Machines:
 [STG-10]: https://learn.microsoft.com/en-us/azure/well-architected/services/storage/storage-accounts/cost-optimization
 [STG-11]: https://learn.microsoft.com/en-us/azure/storage/scripts/storage-blobs-container-calculate-size-powershell
 [STG-12]: https://learn.microsoft.com/en-us/azure/storage/scripts/storage-blobs-container-calculate-billing-size-powershell
+[STG-13]: https://techcommunity.microsoft.com/t5/fasttrack-for-azure/from-blobs-to-insights-your-guide-to-smart-storage-lifecycle/ba-p/3921021
 
 
 ### Azure Monitor
