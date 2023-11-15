@@ -596,14 +596,16 @@ Additional topics that related to Virtual Machines:
 
 | Topic                                                              | Author                                  | Published                | Channel                  |
 | :-----------------------                                           | :-----------------------                | :----------------------- | :----------------------- |
-| [Synapse Serverless SQL Pool - Performance and cost optimization with partitioning][Synapse-1] | [Luca Ferrari][Luca-Ferrari-1] | Nov 2022 | Microsoft Learn     |
+| [Plan and manage costs for Azure Synapse Analytics][Synapse-1]     | Microsoft                               | Feb 2023               | Microsoft Learn \| Docs  |
 | [Cost management for serverless SQL pool in Azure Synapse Analytics][Synapse-2]| Microsoft                   | Apr 2022               | Microsoft Learn \| Docs  |
 | [Configure cost control for serverless SQL pool in Synapse Studio][Synapse-3]|   Microsoft                   | Apr 2022               | Microsoft Learn \| Docs  |
+| [Synapse Serverless SQL Pool - Performance and cost optimization with partitioning][Synapse-4] | [Luca Ferrari][Luca-Ferrari-1] | Nov 2022 | Microsoft Learn     |
 
 [//]: <> (Azure Synapse links)
-[Synapse-1]: https://techcommunity.microsoft.com/t5/fasttrack-for-azure/synapse-serverless-sql-pool-performance-and-cost-optimization/ba-p/3673286
+[Synapse-1]: https://learn.microsoft.com/en-us/azure/synapse-analytics/plan-manage-costs
 [Synapse-2]: https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/data-processed
 [Synapse-3]: https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/data-processed#cost-control
+[Synapse-4]: https://techcommunity.microsoft.com/t5/fasttrack-for-azure/synapse-serverless-sql-pool-performance-and-cost-optimization/ba-p/3673286
 
 
 #### Azure SQL Database
