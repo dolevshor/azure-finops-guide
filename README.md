@@ -697,11 +697,15 @@ Additional topics that related to Virtual Machines:
 
 | Topic                                                              | Author                                  | Published                | Channel                  |
 | :-----------------------                                           | :-----------------------                | :----------------------- | :----------------------- |
-| [Plan to manage costs for Azure OpenAI Service][OpenAI-1]          | Microsoft                               | Aug 2023                 | Microsoft Learn \| Docs  |
-| [Azure Budgets and Azure OpenAI Cost Management][OpenAI-2] | [Shishir Garde][Shishir-Garde-1]| Aug 2023     | Microsoft Tech Community |
-| [Calculating Chargebacks for Business Units/Projects Utilizing a Shared Azure OpenAI Instance][OpenAI-3] | [Shikha Sinha][Shikha-Sinha-1]| Aug 2023     | Microsoft Tech Community |
+| [Plan and manage costs for Azure AI Studio][AOAI-1]                | Microsoft                               | Nov 2023                 | Microsoft Learn \| Docs  |
+| [Commitment tier pricing for Azure AI][AOAI-2]                     | Microsoft                               | Nov 2023                 | Microsoft Learn \| Docs  |
+| [Plan to manage costs for Azure OpenAI Service][AOAI-3]            | Microsoft                               | Aug 2023                 | Microsoft Learn \| Docs  |
+| [Azure Budgets and Azure OpenAI Cost Management][AOAI-4]           | [Shishir Garde][Shishir-Garde-1]        | Aug 2023                 | Microsoft Tech Community |
+| [Calculating Chargebacks for Business Units/Projects Utilizing a Shared Azure OpenAI Instance][AOAI-5] | [Shikha Sinha][Shikha-Sinha-1]| Aug 2023     | Microsoft Tech Community |
 
 [//]: <> (Azure OpenAI links)
-[OpenAI-1]: https://learn.microsoft.com/en-us/azure/cognitive-services/openai/how-to/manage-costs
-[OpenAI-2]: https://techcommunity.microsoft.com/t5/azure-governance-and-management/azure-budgets-and-azure-openai-cost-management/ba-p/3904833
-[OpenAI-3]: https://techcommunity.microsoft.com/t5/apps-on-azure-blog/calculating-chargebacks-for-business-units-projects-utilizing-a/ba-p/3909202
+[AOAI-1]: https://learn.microsoft.com/en-us/azure/ai-studio/how-to/costs-plan-manage
+[AOAI-2]: https://learn.microsoft.com/en-us/azure/ai-studio/how-to/commitment-tier
+[AOAI-3]: https://learn.microsoft.com/en-us/azure/cognitive-services/openai/how-to/manage-costs
+[AOAI-4]: https://techcommunity.microsoft.com/t5/azure-governance-and-management/azure-budgets-and-azure-openai-cost-management/ba-p/3904833
+[AOAI-5]: https://techcommunity.microsoft.com/t5/apps-on-azure-blog/calculating-chargebacks-for-business-units-projects-utilizing-a/ba-p/3909202
