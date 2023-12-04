@@ -276,7 +276,7 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 | :-----------------------                                           | :-----------------------                | :----------------------- | :----------------------- |
 | [Intro to Azure Advisor][Advisor-1]                                | 	Microsoft                              |                          | Microsoft Learn          |
 | [Get Started with Azure Advisor][Advisor-2]                        | 	Microsoft                              |                          | Microsoft Learn          |
-| [Azrue Advisor Cost recommendations][Advisor-3]                    | 	Microsoft                              | Oct 2023                 | Microsoft Learn \| Docs  |
+| [Azure Advisor Cost recommendations][Advisor-3]                    | 	Microsoft                              | Oct 2023                 | Microsoft Learn \| Docs  |
 | [Functionality and Usage of Azure Advisor][Advisor-4]              | [John Savill][John-Savill-1]            | Jan 2022                 | YouTube                  |
 | [Optimize your Azure environment with Azure Advisor][Advisor-5]    | [Thomas Maurer][Thomas-Maurer-1]        | Apr 2021                 | YouTube                  |
 
@@ -321,7 +321,7 @@ List of services that supported reservations:
 | [View savings plan cost and usage][Saving-Plans-5]                 | Microsoft                               | Mar 2023                 | Microsoft Learn          |
 | [View savings plan transactions][Saving-Plans-6]                   | Microsoft                               | Nov 2022                 | Microsoft Learn          |
 | [Charge back savings plan costs][Saving-Plans-7]                   | Microsoft                               | Feb 2023                 | Microsoft Learn          |
-| [Calculaye EA Cost savings][Saving-Plans-8]                        | Microsoft                               | Mar 2023                 | Microsoft Learn          |
+| [Calculate EA Cost savings][Saving-Plans-8]                        | Microsoft                               | Mar 2023                 | Microsoft Learn          |
 | [Azure Savings Dashboard][Saving-Plans-9]                          | [Saira Shaik][Saira-Shaik-1]            | May 2023                 | Microsoft Tech Community |
 | [Azure Savings Dashboard Tool][Saving-Plans-10]                    | [Saira Shaik][Saira-Shaik-2]            | May 2023                 | GitHub                   |
 
@@ -667,9 +667,19 @@ Additional topics that related to Virtual Machines:
 | Topic                                                              | Author                                  | Published                | Channel                  |
 | :-----------------------                                           | :-----------------------                | :----------------------- | :----------------------- |
 | [Plan and manage costs for Azure Cosmos DB][Cosmos-1]              | Microsoft                               | Oct 2022               | Microsoft Learn \| Docs  |
+| [Limit the total throughput provisioned on your Azure Cosmos DB account][Cosmos-2]               | Microsoft                               | Mar 2022               | Microsoft Learn \| Docs  |
+| [Optimize cost with reserved capacity in Azure Cosmos DB][Cosmos-3]              | Microsoft                               | Aug 2021               | Microsoft Learn \| Docs  |
+| [Improve performance and optimize costs when upgrading to Azure Cosmos DB API for MongoDB 4.0+][Cosmos-4]              | Microsoft                               | Jun 2022               | Microsoft Learn \| Docs  |
+| [Optimize development and testing cost in Azure Cosmos DB][Cosmos-5]              | Microsoft                               | Aug 2021               | Microsoft Learn \| Docs  |
+| [Azure Synapse Link for Azure Cosmos DB][Cosmos-6]              | Microsoft                               | Feb 2023               | Microsoft Learn \| Docs  |
 
 [//]: <> (Azure Cosmos DB links)
-[Cosmos-1]: https://learn.microsoft.com/en-us/azure/cosmos-db/plan-manage-costs
+[Cosmos-1]: https://learn.microsoft.com/azure/cosmos-db/plan-manage-costs
+[Cosmos-2]: https://learn.microsoft.com/azure/cosmos-db/limit-total-account-throughput
+[Cosmos-3]: https://learn.microsoft.com/azure/cosmos-db/reserved-capacity
+[Cosmos-4]: https://learn.microsoft.com/azure/cosmos-db/mongodb/compression-cost-savings
+[Cosmos-5]: https://learn.microsoft.com/azure/cosmos-db/optimize-dev-test
+[Cosmos-6]: https://learn.microsoft.com/azure/cosmos-db/synapse-link
 
 
 #### Azure Stream Analytics
