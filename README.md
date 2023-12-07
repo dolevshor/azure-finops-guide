@@ -64,6 +64,7 @@ The table below contains a collection of native tools that are related to FinOps
 | [Azure Advisor][Tools-3]              | Analyses configurations and usage telemetry and offers personalized, actionable recommendations to help optimize resources for reliability, security, operational excellence, performance, and cost. |
 | [TCO Calculator][Tools-4]             | TCO = Total Cost of Ownership <br /> Estimate the cost savings you can realize by migrating your workloads to Azure. |
 | [Azure Hybrid Benefit Savings Calculator][Tools-5] | Estimates the price, savings, and eligible instances you can use in Azure based on your current Software Assurance licenses. (Windows VMs, SQL Server VMs, SQL Managed Instance, and SQL Database)  |
+| [FinOps toolkit][Tools-6]             | Starter kits, scripts, and advanced solutions to accelerate your FinOps journey in the Microsoft Cloud. |
 
 [//]: <> (Tools links)
 [Tools-1]: https://azure.microsoft.com/en-us/pricing/calculator
@@ -71,6 +72,7 @@ The table below contains a collection of native tools that are related to FinOps
 [Tools-3]: https://azure.microsoft.com/en-au/products/advisor/
 [Tools-4]: https://azure.microsoft.com/en-us/pricing/tco/calculator/
 [Tools-5]: https://azure.microsoft.com/en-us/pricing/hybrid-benefit/#calculator
+[Tools-6]: https://microsoft.github.io/finops-toolkit/
 
 ## Ways to optimize
 This table contains a list of techniques to optimize and reduce your cloud environment's total cost of ownership.
