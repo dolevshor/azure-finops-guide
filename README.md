@@ -220,20 +220,22 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 | [Azure Cost Optimization Deep Dive][General-2]                     | [John Savill][John-Savill-1]            | May 2020                 | YouTube                  |
 | [Factors That Affect Costs][General-3]                             | [John Savill][John-Savill-1]            | Jan 2022                 | YouTube                  |
 | [Factors to Reduce Cost][General-4]                                | [John Savill][John-Savill-1]            | Jan 2022                 | YouTube                  |
-| [Azure Orphaned Resources][General-5]                              | [Dolev Shor][Dolev-Shor-1]              | Jun 2022                 | Microsoft Tech Community |
-| [Azure Orphaned Resources Workbook][General-6]                     | [Dolev Shor][Dolev-Shor-2]              | Jun 2022                 | GitHub                   |
-| [Azure FinOps Workbook][General-7]                                 | [Sam Bell][Sam-Bell-1]                  | Jan 2023                 | GitHub                   |
-| [Azure Optimization Engine][General-8]                             | [Hélder Pinto][Helder-Pinto-1]          | Feb 2021                 | GitHub                   |
+| [Communicating a cost savings initiative the right way and what NOT to do][General-5] | [John Savill][John-Savill-1] | Dec 2023         | YouTube                  |
+| [Azure Orphaned Resources][General-6]                              | [Dolev Shor][Dolev-Shor-1]              | Jun 2022                 | Microsoft Tech Community |
+| [Azure Orphaned Resources Workbook][General-7]                     | [Dolev Shor][Dolev-Shor-2]              | Jun 2022                 | GitHub                   |
+| [Azure FinOps Workbook][General-8]                                 | [Sam Bell][Sam-Bell-1]                  | Jan 2023                 | GitHub                   |
+| [Azure Optimization Engine][General-9]                             | [Hélder Pinto][Helder-Pinto-1]          | Feb 2021                 | GitHub                   |
 
 
 [General-1]: https://learn.microsoft.com/en-us/shows/azure-friday/managing-reporting-and-reducing-your-costs-in-azure
 [General-2]: https://www.youtube.com/watch?v=RjuTQvGm1zQ
 [General-3]: https://www.youtube.com/watch?v=fMShW_RGcxY
 [General-4]: https://www.youtube.com/watch?v=B5yiKE2DLH8
-[General-5]: https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-orphan-resources/ba-p/3492198
-[General-6]: https://github.com/dolevshor/azure-orphan-resources
-[General-7]: https://github.com/ms-sambell/azure-finops-workbook
-[General-8]: https://github.com/helderpinto/AzureOptimizationEngine
+[General-5]: https://www.youtube.com/watch?v=a1txqsKSafk
+[General-6]: https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-orphan-resources/ba-p/3492198
+[General-7]: https://github.com/dolevshor/azure-orphan-resources
+[General-8]: https://github.com/ms-sambell/azure-finops-workbook
+[General-9]: https://github.com/helderpinto/AzureOptimizationEngine
 
 ### Calculators
 
