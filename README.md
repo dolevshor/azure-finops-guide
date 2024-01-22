@@ -316,7 +316,69 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 [Reservations-6]: https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/reservation-utilization-alerts
 
 List of services that supported reservations:
-![image](https://user-images.githubusercontent.com/69309933/210773383-feb62978-433a-40fe-b425-744c832348ae.png)
+
+![image](https://github.com/dolevshor/azure-finops-guide/assets/69309933/f3b3c59f-4ca3-4bd2-a710-359914ed50f3)
+
+
+| Service Name                                                       | Author                                  | Published                | Channel                  |
+| :-----------------------                                           | :-----------------------                | :----------------------- | :----------------------- |
+| [App Service][BuyReservation-1]                                    | Microsoft                               | Mar 2023                 | Microsoft Azure          |
+| [App Service - JBoss EA Integrated Support][BuyReservation-2]      | Microsoft                               | Nov 2023                 | Microsoft Azure          |
+| [Azure Backup][BuyReservation-3]                                   | Microsoft                               | Feb 2023                 | Microsoft Azure          |
+| [Azure Cache for Redis][BuyReservation-4]                          | Microsoft                               | Aug 2022                 | Microsoft Azure          |
+| [Azure Data Factory][BuyReservation-5]                             | Microsoft                               | Jul 2023                 | Microsoft Azure          |
+| [Azure Database for MariaDB][BuyReservation-6]                     | Microsoft                               | Sep 2023                 | Microsoft Azure          |
+| [Azure Database for MySQL][BuyReservation-7]                       | Microsoft                               | Dec 2023                 | Microsoft Azure          |
+| [Azure Database for PostgreSQL][BuyReservation-8]                  | Microsoft                               | Jan 2024                 | Microsoft Azure          |
+| [Azure Blob storage][BuyReservation-9]                             | Microsoft                               | Mar 2023                 | Microsoft Azure          |
+| [Azure Files][BuyReservation-10]                                   | Microsoft                               | Mar 2023                 | Microsoft Azure          |
+| [Azure VMware Solution][BuyReservation-11]                         | Microsoft                               | Dec 2023                 | Microsoft Azure          |
+| [Azure Cosmos DB][BuyReservation-12]                               | Microsoft                               | Nov 2022                 | Microsoft Azure          |
+| [Azure SQL Edge][BuyReservation-13]                                | Microsoft                               | Nov 2023                 | Microsoft Azure          |
+| [Azure Databricks][BuyReservation-14]                              | Microsoft                               | Nov 2023                 | Microsoft Azure          |
+| [Azure Data Explorer][BuyReservation-15]                           | Microsoft                               | Mar 2022                 | Microsoft Azure          |
+| [Azure Dedicated Host][BuyReservation-16]                          | Microsoft                               | Jun 2023                 | Microsoft Azure          |
+| [Azure Managed Disks][BuyReservation-17]                           | Microsoft                               | Jan 2023                 | Microsoft Azure          |
+| [Microsoft Fabric][BuyReservation-18]                              | Microsoft                               | Nov 2023                 | Microsoft Azure          |
+| [SAP HANA Large Instances][BuyReservation-19]                      | Microsoft                               | Mar 2023                 | Microsoft Azure          |
+| [Software plans][BuyReservation-20]                                | Microsoft                               | Jun 2022                 | Microsoft Azure          |
+| [SQL Database and SQL Managed Instance][BuyReservation-21]         | Microsoft                               | Sep 2023                 | Microsoft Azure          |
+| [Azure Synapse Analytics (data warehousing only)][BuyReservation-22]| Microsoft                              | Nov 2023                 | Microsoft Azure          |
+| [Synapse Analytics - Pre-Purchase Plan][BuyReservation-23]         | Microsoft                               | Mar 2023                 | Microsoft Azure          |
+| [Virtual machines][BuyReservation-24]                              | Microsoft                               | Jan 2023                 | Microsoft Azure          |
+| [Virtual machine software][BuyReservation-25]                      | Microsoft                               | Nov 2023                 | Microsoft Azure          |
+| [Azure Red Hat OpenShift][BuyReservation-26]                       | Microsoft                               |                          | Microsoft Azure          |
+| [Azure Arc-enabled SQL Managed Instance][BuyReservation-27]        | Microsoft                               | Aug 2022                 | Microsoft Azure          |
+
+
+[//]: <> (Buy Reservations links)
+[BuyReservation-1]: https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/prepay-app-service
+[BuyReservation-2]: https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/prepay-jboss-eap-integrated-support-app-service
+[BuyReservation-3]: https://learn.microsoft.com/en-us/azure/backup/backup-azure-reserved-pricing-optimize-cost
+[BuyReservation-4]: https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-reserved-pricing
+[BuyReservation-5]: https://learn.microsoft.com/en-us/azure/data-factory/data-flow-reserved-capacity-overview
+[BuyReservation-6]: https://learn.microsoft.com/en-us/azure/mariadb/concept-reserved-pricing
+[BuyReservation-7]: https://learn.microsoft.com/en-us/azure/mysql/flexible-server/concept-reserved-pricing
+[BuyReservation-8]: https://learn.microsoft.com/en-us/azure/postgresql/flexible-server/concepts-reserved-pricing
+[BuyReservation-9]: https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-reserved-capacity
+[BuyReservation-10]: https://learn.microsoft.com/en-us/azure/storage/files/files-reserve-capacity
+[BuyReservation-11]: https://learn.microsoft.com/en-us/azure/azure-vmware/reserved-instance
+[BuyReservation-12]: https://learn.microsoft.com/en-us/azure/cosmos-db/reserved-capacity
+[BuyReservation-13]: https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/prepay-sql-edge
+[BuyReservation-14]: https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/prepay-databricks-reserved-capacity
+[BuyReservation-15]: https://learn.microsoft.com/en-us/azure/data-explorer/pricing-reserved-capacity
+[BuyReservation-16]: https://learn.microsoft.com/en-us/azure/virtual-machines/prepay-dedicated-hosts-reserved-instances
+[BuyReservation-17]: https://learn.microsoft.com/en-us/azure/virtual-machines/disks-reserved-capacity
+[BuyReservation-18]: https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/fabric-capacity
+[BuyReservation-19]: https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/prepay-hana-large-instances-reserved-capacity
+[BuyReservation-20]: https://learn.microsoft.com/en-us/azure/virtual-machines/linux/prepay-suse-software-charges
+[BuyReservation-21]: https://learn.microsoft.com/en-us/azure/azure-sql/database/reserved-capacity-overview
+[BuyReservation-22]: https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/prepay-sql-data-warehouse-charges
+[BuyReservation-23]: https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/synapse-analytics-pre-purchase-plan
+[BuyReservation-24]: https://learn.microsoft.com/en-us/azure/virtual-machines/prepay-reserved-vm-instances
+[BuyReservation-25]: https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/buy-vm-software-reservation
+[BuyReservation-26]: https://azure.microsoft.com/en-us/pricing/details/openshift
+[BuyReservation-27]: https://learn.microsoft.com/en-us/azure/azure-arc/data/reserved-capacity-overview
 
 ### Savings Plans
 
@@ -480,7 +542,7 @@ Additional topics that related to Virtual Machines:
 | [Optimize storage performance and costs using Blog storage tiers][STG-4]| Microsoft                          |                          | Microsoft Learn          |
 | [Plan and manage costs for Azure Blob Storage][STG-5]              | Microsoft                               | Dec 2022                 | Microsoft Azure          |
 | [Optimize costs by automatically managing the data lifecycle][STG-6]| Microsoft                              | Dec 2022                 | Microsoft Azure          |
-| [Optimize costs for Blob storage with reserved capacity][STG-7]    | Microsoft                               | Jul 2022                 | Microsoft Azure          |
+| [Optimize costs for Blob storage with reserved capacity][STG-7]    | Microsoft                               | Apr 2023                 | Microsoft Azure          |
 | [Estimate the cost of archiving data][STG-8]                       | Microsoft                               | Dec 2022                 | Microsoft Azure          |
 | [Part 2: Infra Cost Optimization In The Cloud – Practical Design Steps For Architects and Developers][STG-9] | [Shane Baldacchino][Shane-Baldacchino-1]| Aug 2022  | Microsoft Tech Community |
 | [Storage Accounts and cost optimization][STG-10]                   | Microsoft                               | Jan 2022                 | Microsoft Learn | Docs   |
