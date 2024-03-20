@@ -287,6 +287,7 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 | [Azure Advisor Cost recommendations][Advisor-3]                    | 	Microsoft                              | Oct 2023                 | Microsoft Learn \| Docs  |
 | [Functionality and Usage of Azure Advisor][Advisor-4]              | [John Savill][John-Savill-1]            | Jan 2022                 | YouTube                  |
 | [Optimize your Azure environment with Azure Advisor][Advisor-5]    | [Thomas Maurer][Thomas-Maurer-1]        | Apr 2021                 | YouTube                  |
+| [Optimize your Cloud investment with new Azure Advisor Workbooks][Advisor-6] | [Antonio Ortoll][Antonio-Ortoll-1] | Oct 2023            | Microsoft Tech Community |
 
 [//]: <> (Advisor links)
 [Advisor-1]: https://learn.microsoft.com/en-us/training/modules/intro-to-azure-advisor/
@@ -294,6 +295,7 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 [Advisor-3]: https://learn.microsoft.com/en-us/azure/advisor/advisor-reference-cost-recommendations
 [Advisor-4]: https://www.youtube.com/watch?v=nqH4NboyEl0
 [Advisor-5]: https://www.youtube.com/watch?v=ZZXYtxkwpQo
+[Advisor-6]: https://techcommunity.microsoft.com/t5/azure-governance-and-management/optimize-your-cloud-investment-with-new-azure-advisor-workbooks/ba-p/3950911
 
 
 ### Azure Reservations
