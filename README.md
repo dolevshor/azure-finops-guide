@@ -751,7 +751,7 @@ Additional topics that related to Virtual Machines:
 | [Optimize storage cost in Azure Cosmos DB][Cosmos-11]              | Microsoft                               | Oct 2022                 | Microsoft Learn \| Docs  |
 | [Optimize multi-region cost in Azure Cosmos DB][Cosmos-12]         | Microsoft                               | Feb 2024                 | Microsoft Learn \| Docs  |
 | [Optimize your Azure Cosmos DB application using rate limiting][Cosmos-13] | Microsoft                       | Oct 2022                 | Microsoft Learn \| Docs  |
-| [Optimize request cost in Azure Cosmos DB][Cosmos-14] | Microsoft                       | Oct 2022                 | Microsoft Learn \| Docs  |
+| [Optimize request cost in Azure Cosmos DB][Cosmos-14]              | Microsoft                               | Apr 2023                 | Microsoft Learn \| Docs  |
 
 [//]: <> (Azure Cosmos DB links)
 [Cosmos-1]: https://learn.microsoft.com/azure/cosmos-db/plan-manage-costs
