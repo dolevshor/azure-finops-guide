@@ -738,12 +738,20 @@ Additional topics that related to Virtual Machines:
 
 | Topic                                                              | Author                                  | Published                | Channel                  |
 | :-----------------------                                           | :-----------------------                | :----------------------- | :----------------------- |
-| [Plan and manage costs for Azure Cosmos DB][Cosmos-1]              | Microsoft                               | Oct 2022               | Microsoft Learn \| Docs  |
-| [Limit the total throughput provisioned on your Azure Cosmos DB account][Cosmos-2]               | Microsoft                               | Mar 2022               | Microsoft Learn \| Docs  |
-| [Optimize cost with reserved capacity in Azure Cosmos DB][Cosmos-3]              | Microsoft                               | Aug 2021               | Microsoft Learn \| Docs  |
-| [Improve performance and optimize costs when upgrading to Azure Cosmos DB API for MongoDB 4.0+][Cosmos-4]              | Microsoft                               | Jun 2022               | Microsoft Learn \| Docs  |
-| [Optimize development and testing cost in Azure Cosmos DB][Cosmos-5]              | Microsoft                               | Aug 2021               | Microsoft Learn \| Docs  |
-| [Azure Synapse Link for Azure Cosmos DB][Cosmos-6]              | Microsoft                               | Feb 2023               | Microsoft Learn \| Docs  |
+| [Plan and manage costs for Azure Cosmos DB][Cosmos-1]              | Microsoft                               | Oct 2022                 | Microsoft Learn \| Docs  |
+| [Limit the total throughput provisioned on your Azure Cosmos DB account][Cosmos-2] | Microsoft               | Apr 2023                 | Microsoft Learn \| Docs  |
+| [Optimize cost with reserved capacity in Azure Cosmos DB][Cosmos-3] | Microsoft                              | Mar 2024                 | Microsoft Learn \| Docs  |
+| [Improve performance and optimize costs when upgrading to Azure Cosmos DB API for MongoDB 4.0+][Cosmos-4] | Microsoft | Jun 2022        | Microsoft Learn \| Docs  |
+| [Optimize development and testing cost in Azure Cosmos DB][Cosmos-5] | Microsoft                             | Oct 2022                 | Microsoft Learn \| Docs  |
+| [Azure Synapse Link for Azure Cosmos DB][Cosmos-6]                 | Microsoft                               | Feb 2023                 | Microsoft Learn \| Docs  |
+| [Pricing model in Azure Cosmos DB][Cosmos-7]                       | Microsoft                               | Jan 2024                 | Microsoft Learn \| Docs  |
+| [Total Cost of Ownership (TCO) with Azure Cosmos DB][Cosmos-8]     | Microsoft                               | Nov 2022                 | Microsoft Learn \| Docs  |
+| [Understand your Azure Cosmos DB bill][Cosmos-9]                   | Microsoft                               | Oct 2022                 | Microsoft Learn \| Docs  |
+| [Optimize provisioned throughput cost in Azure Cosmos DB][Cosmos-10] | Microsoft                             | Oct 2022                 | Microsoft Learn \| Docs  |
+| [Optimize storage cost in Azure Cosmos DB][Cosmos-11]              | Microsoft                               | Oct 2022                 | Microsoft Learn \| Docs  |
+| [Optimize multi-region cost in Azure Cosmos DB][Cosmos-12]         | Microsoft                               | Feb 2024                 | Microsoft Learn \| Docs  |
+| [Optimize your Azure Cosmos DB application using rate limiting][Cosmos-13] | Microsoft                       | Oct 2022                 | Microsoft Learn \| Docs  |
+| [Optimize request cost in Azure Cosmos DB][Cosmos-14] | Microsoft                       | Oct 2022                 | Microsoft Learn \| Docs  |
 
 [//]: <> (Azure Cosmos DB links)
 [Cosmos-1]: https://learn.microsoft.com/azure/cosmos-db/plan-manage-costs
@@ -752,6 +760,14 @@ Additional topics that related to Virtual Machines:
 [Cosmos-4]: https://learn.microsoft.com/azure/cosmos-db/mongodb/compression-cost-savings
 [Cosmos-5]: https://learn.microsoft.com/azure/cosmos-db/optimize-dev-test
 [Cosmos-6]: https://learn.microsoft.com/azure/cosmos-db/synapse-link
+[Cosmos-7]: https://learn.microsoft.com/en-us/azure/cosmos-db/how-pricing-works
+[Cosmos-8]: https://learn.microsoft.com/en-us/azure/cosmos-db/total-cost-ownership
+[Cosmos-9]: https://learn.microsoft.com/en-us/azure/cosmos-db/understand-your-bill
+[Cosmos-10]: https://learn.microsoft.com/en-us/azure/cosmos-db/optimize-cost-throughput
+[Cosmos-11]: https://learn.microsoft.com/en-us/azure/cosmos-db/optimize-cost-storage
+[Cosmos-12]: https://learn.microsoft.com/en-us/azure/cosmos-db/optimize-cost-regions
+[Cosmos-13]: https://learn.microsoft.com/en-us/azure/cosmos-db/rate-limiting-requests
+[Cosmos-14]: https://learn.microsoft.com/en-us/azure/cosmos-db/optimize-cost-reads-writes
 
 
 #### Azure Stream Analytics
