@@ -212,6 +212,7 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 [Yoav-Dobrin-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1306386
 [James-Croft-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/2097623
 [Antonio-Ortoll-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1595602
+[Olga-Molocenco-Ciureanu-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1103062
 
 
 ### General
@@ -801,8 +802,9 @@ Additional topics that related to Virtual Machines:
 | [Commitment tier pricing for Azure AI][AOAI-2]                     | Microsoft                               | Nov 2023                 | Microsoft Learn \| Docs  |
 | [Plan to manage costs for Azure OpenAI Service][AOAI-3]            | Microsoft                               | Aug 2023                 | Microsoft Learn \| Docs  |
 | [Azure Budgets and Azure OpenAI Cost Management][AOAI-4]           | [Shishir Garde][Shishir-Garde-1]        | Aug 2023                 | Microsoft Tech Community |
-| [Calculating Chargebacks for Business Units/Projects Utilizing a Shared Azure OpenAI Instance][AOAI-5] | [Shikha Sinha][Shikha-Sinha-1]| Aug 2023     | Microsoft Tech Community |
-| [Strategies for Optimizing High-Volume Token Usage with Azure OpenAI][AOAI-6] | [James Croft][James-Croft-1]| Dec 2023     | Microsoft Tech Community |
+| [Calculating Chargebacks for Business Units/Projects Utilizing a Shared Azure OpenAI Instance][AOAI-5] | [Shikha Sinha][Shikha-Sinha-1]| Aug 2023 | Microsoft Tech Community |
+| [Strategies for Optimizing High-Volume Token Usage with Azure OpenAI][AOAI-6] | [James Croft][James-Croft-1] | Dec 2023                 | Microsoft Tech Community |
+| [Optimizing Azure OpenAI: A Guide to Limits, Quotas, and Best Practices][AOAI-7] | [Olga Molocenco-Ciureanu][Olga-Molocenco-Ciureanu-1]| Mar 2024             | Microsoft Tech Community |
 
 
 
@@ -813,3 +815,4 @@ Additional topics that related to Virtual Machines:
 [AOAI-4]: https://techcommunity.microsoft.com/t5/azure-governance-and-management/azure-budgets-and-azure-openai-cost-management/ba-p/3904833
 [AOAI-5]: https://techcommunity.microsoft.com/t5/apps-on-azure-blog/calculating-chargebacks-for-business-units-projects-utilizing-a/ba-p/3909202
 [AOAI-6]: https://techcommunity.microsoft.com/t5/fasttrack-for-azure/strategies-for-optimizing-high-volume-token-usage-with-azure/ba-p/4007751
+[AOAI-7]: https://techcommunity.microsoft.com/t5/fasttrack-for-azure/optimizing-azure-openai-a-guide-to-limits-quotas-and-best/ba-p/4076268
