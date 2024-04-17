@@ -1,4 +1,4 @@
-![FinOps-Logo-2](https://user-images.githubusercontent.com/69309933/211255358-23582f52-90cf-4eff-a34a-759b7a57f40a.jpg)
+![image](https://github.com/dolevshor/azure-finops-guide/assets/69309933/29c8b9e4-1684-471e-a4b9-d2b4a4103d6e)![FinOps-Logo-2](https://user-images.githubusercontent.com/69309933/211255358-23582f52-90cf-4eff-a34a-759b7a57f40a.jpg)
 
 
 # The Azure FinOps Guide
@@ -50,8 +50,8 @@ The main purposes of this guide is to do more with less by:
     - [Azure Cosmos DB](#azure-cosmos-db)
     - [Azure Stream Analytics](#azure-stream-analytics)
     - [Azure Databricks](#azure-databricks)
-  - [Cognitive Services](#cognitive-services)
-    - [Azure OpenAI](#azure-openai)
+  - [Azure AI Services](#azure-ai-services)
+    - [Azure OpenAI Service](#azure-openai-service)
 
 
 ## Tools
@@ -792,9 +792,9 @@ Additional topics that related to Virtual Machines:
 [Databricks-1]: https://learn.microsoft.com/en-us/azure/databricks/lakehouse-architecture/cost-optimization
 [Databricks-2]: https://learn.microsoft.com/en-us/azure/databricks/lakehouse-architecture/cost-optimization/best-practices
 
-### Cognitive Services
+### Azure AI Services
 
-#### Azure OpenAI
+#### Azure OpenAI Service
 
 | Topic                                                              | Author                                  | Published                | Channel                  |
 | :-----------------------                                           | :-----------------------                | :----------------------- | :----------------------- |
