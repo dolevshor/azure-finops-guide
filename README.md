@@ -38,6 +38,7 @@ The main purposes of this guide is to do more with less by:
   - [Microsoft Sentinel](#microsoft-sentinel)
   - [Azure Virtual Desktop](#azure-virtual-desktop)
   - [Azure Logic Apps](#azure-logic-apps)
+  - [Azure Functions](#azure-functions)
   - [Networking](#networking) 
     - [Azure Front Door](#azure-front-door)
     - [Azure Application Gateway](#azure-application-gateway)
@@ -640,6 +641,17 @@ Additional topics that related to Virtual Machines:
 [LogicApps-1]: https://learn.microsoft.com/en-us/azure/logic-apps/plan-manage-costs
 [LogicApps-2]: https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-pricing
 [LogicApps-3]: https://learn.microsoft.com/en-us/azure/logic-apps/estimate-storage-costs
+
+
+### Azure Functions
+
+| Topic                                                              | Author                                  | Published                | Channel                  |
+| :-----------------------                                           | :-----------------------                | :----------------------- | :----------------------- |
+| [Estimating Consumption plan costs][Functions-1]                   | Microsoft                               | Feb 2023                 | Microsoft Learn \| Docs  |
+
+
+[//]: <> (Azure Functions links)
+[Functions-1]: https://learn.microsoft.com/en-us/azure/azure-functions/functions-consumption-costs
 
 
 ### Networking
