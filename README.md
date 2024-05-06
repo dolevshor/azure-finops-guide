@@ -26,7 +26,7 @@ The main purposes of this guide is to do more with less by:
   - [Cost Management](#cost-management)
   - [Advisor](#advisor)
   - [Azure Reservations](#azure-reservations)
-  - [Savings Plans](#savings-plans)
+  - [Azure Savings Plan](#azure-savings-plan)
   - [Azure Hybrid Benefit](#azure-hybrid-benefit)
   - [Virtual Machines](#virtual-machines)
   - [Virtual Machine Scale Sets](#virtual-machine-scale-sets)
@@ -214,6 +214,7 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 [James-Croft-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/2097623
 [Antonio-Ortoll-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1595602
 [Olga-Molocenco-Ciureanu-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1103062
+[Kyle-Ikeda-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/849111
 
 
 ### General
@@ -310,6 +311,8 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 | [Azure Savings Dashboard][Reservations-4]                          | [Saira Shaik][Saira-Shaik-1]            | May 2023                 | Microsoft Tech Community |
 | [Azure Savings Dashboard Tool][Reservations-5]                     | [Saira Shaik][Saira-Shaik-2]            | May 2023                 | GitHub                   |
 | [Reservation utilization alerts][Reservations-6]                   | Microsoft                               | May 2023                 | Microsoft Learn \| Docs  |
+| [Get Azure Reservations and Savings Plans Insights with the Azure Optimization Engine][Reservations-7] | [Helder Pinto][Helder-Pinto-2] | Apr 2024 | Microsoft Tech Community |
+| [How to optimize your Azure compute spend with savings plan and reserved instances][Reservations-8] | [Kyle Ikeda][Kyle-Ikeda-1] | Mar 2024 | Microsoft Tech Community |
 
 [//]: <> (Reservations links)
 [Reservations-1]: https://www.youtube.com/watch?v=vpTDXenagcM
@@ -318,6 +321,8 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 [Reservations-4]: https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-savings-dashboard/ba-p/3816131
 [Reservations-5]: https://github.com/sairashaik6677/azuresavingsdashboard
 [Reservations-6]: https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/reservation-utilization-alerts
+[Reservations-7]: https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/get-azure-reservations-and-savings-plans-insights-with-the-azure/ba-p/4100750
+[Reservations-8]: https://techcommunity.microsoft.com/t5/azure-compute-blog/how-to-optimize-your-azure-compute-spend-with-savings-plan-and/ba-p/4076115
 
 List of services that supported reservations:
 
@@ -384,33 +389,37 @@ List of services that supported reservations:
 [BuyReservation-26]: https://azure.microsoft.com/en-us/pricing/details/openshift
 [BuyReservation-27]: https://learn.microsoft.com/en-us/azure/azure-arc/data/reserved-capacity-overview
 
-### Savings Plans
+### Azure Savings Plan
 
 | Topic                                                              | Author                                  | Published                | Channel                  |
 | :-----------------------                                           | :-----------------------                | :----------------------- | :----------------------- |
-| [Purchase Azure savings plan for compute][Saving-Plans-1]          | Microsoft                               |                          | Microsoft Learn          |
-| [Understanding Azure Savings Plan for Compute][Saving-Plans-2]     | [John Savill][John-Savill-1]            | Oct 2022                 | YouTube                  |
-| [Understanding Azure Reservations vs Savings Plans][Saving-Plans-3]| [Brandon Wilson][Brandon-Wilson-1]      | Dec 2022                 | Microsoft Tech Community |
-| [View savings plan utilization][Saving-Plans-4]                    | Microsoft                               | Nov 2022                 | Microsoft Learn          |
-| [View savings plan cost and usage][Saving-Plans-5]                 | Microsoft                               | Mar 2023                 | Microsoft Learn          |
-| [View savings plan transactions][Saving-Plans-6]                   | Microsoft                               | Nov 2022                 | Microsoft Learn          |
-| [Charge back savings plan costs][Saving-Plans-7]                   | Microsoft                               | Feb 2023                 | Microsoft Learn          |
-| [Calculate EA Cost savings][Saving-Plans-8]                        | Microsoft                               | Mar 2023                 | Microsoft Learn          |
-| [Azure Savings Dashboard][Saving-Plans-9]                          | [Saira Shaik][Saira-Shaik-1]            | May 2023                 | Microsoft Tech Community |
-| [Azure Savings Dashboard Tool][Saving-Plans-10]                    | [Saira Shaik][Saira-Shaik-2]            | May 2023                 | GitHub                   |
+| [Purchase Azure savings plan for compute][Savings-Plan-1]          | Microsoft                               |                          | Microsoft Learn          |
+| [Understanding Azure Savings Plan for Compute][Savings-Plan-2]     | [John Savill][John-Savill-1]            | Oct 2022                 | YouTube                  |
+| [Understanding Azure Reservations vs Savings Plans][Savings-Plan-3]| [Brandon Wilson][Brandon-Wilson-1]      | Dec 2022                 | Microsoft Tech Community |
+| [View savings plan utilization][Savings-Plan-4]                    | Microsoft                               | Nov 2022                 | Microsoft Learn          |
+| [View savings plan cost and usage][Savings-Plan-5]                 | Microsoft                               | Mar 2023                 | Microsoft Learn          |
+| [View savings plan transactions][Savings-Plan-6]                   | Microsoft                               | Nov 2022                 | Microsoft Learn          |
+| [Charge back savings plan costs][Savings-Plan-7]                   | Microsoft                               | Feb 2023                 | Microsoft Learn          |
+| [Calculate EA Cost savings][Savings-Plan-8]                        | Microsoft                               | Mar 2023                 | Microsoft Learn          |
+| [Azure Savings Dashboard][Savings-Plan-9]                          | [Saira Shaik][Saira-Shaik-1]            | May 2023                 | Microsoft Tech Community |
+| [Azure Savings Dashboard Tool][Savings-Plan-10]                    | [Saira Shaik][Saira-Shaik-2]            | May 2023                 | GitHub                   |
+| [Get Azure Reservations and Savings Plans Insights with the Azure Optimization Engine][Savings-Plan-11] | [Helder Pinto][Helder-Pinto-2] | Apr 2024 | Microsoft Tech Community |
+| [How to optimize your Azure compute spend with savings plan and reserved instances][Savings-Plan-12] | [Kyle Ikeda][Kyle-Ikeda-1] | Mar 2024 | Microsoft Tech Community |
 
 
 [//]: <> (Savings Plans links)
-[Saving-Plans-1]: https://learn.microsoft.com/en-us/training/modules/azure-savings-plan-for-compute/
-[Saving-Plans-2]: https://www.youtube.com/watch?v=lBnKBV2r6lI&t
-[Saving-Plans-3]: https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/quick-reference-understanding-azure-reservations-vs-savings/ba-p/3689070
-[Saving-Plans-4]: https://learn.microsoft.com/en-us/azure/cost-management-billing/savings-plan/view-utilization
-[Saving-Plans-5]: https://learn.microsoft.com/en-us/azure/cost-management-billing/savings-plan/utilization-cost-reports
-[Saving-Plans-6]: https://learn.microsoft.com/en-us/azure/cost-management-billing/savings-plan/view-transactions
-[Saving-Plans-7]: https://learn.microsoft.com/en-us/azure/cost-management-billing/savings-plan/charge-back-costs
-[Saving-Plans-8]: https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/calculate-ea-reservations-savings
-[Saving-Plans-9]: https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-savings-dashboard/ba-p/3816131
-[Saving-Plans-10]: https://github.com/sairashaik6677/azuresavingsdashboard
+[Savings-Plan-1]: https://learn.microsoft.com/en-us/training/modules/azure-savings-plan-for-compute/
+[Savings-Plan-2]: https://www.youtube.com/watch?v=lBnKBV2r6lI&t
+[Savings-Plan-3]: https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/quick-reference-understanding-azure-reservations-vs-savings/ba-p/3689070
+[Savings-Plan-4]: https://learn.microsoft.com/en-us/azure/cost-management-billing/savings-plan/view-utilization
+[Savings-Plan-5]: https://learn.microsoft.com/en-us/azure/cost-management-billing/savings-plan/utilization-cost-reports
+[Savings-Plan-6]: https://learn.microsoft.com/en-us/azure/cost-management-billing/savings-plan/view-transactions
+[Savings-Plan-7]: https://learn.microsoft.com/en-us/azure/cost-management-billing/savings-plan/charge-back-costs
+[Savings-Plan-8]: https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/calculate-ea-reservations-savings
+[Savings-Plan-9]: https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-savings-dashboard/ba-p/3816131
+[Savings-Plan-10]: https://github.com/sairashaik6677/azuresavingsdashboard
+[Savings-Plan-11]: https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/get-azure-reservations-and-savings-plans-insights-with-the-azure/ba-p/4100750
+[Savings-Plan-12]: https://techcommunity.microsoft.com/t5/azure-compute-blog/how-to-optimize-your-azure-compute-spend-with-savings-plan-and/ba-p/4076115
 
 ### Azure Hybrid Benefit
 
