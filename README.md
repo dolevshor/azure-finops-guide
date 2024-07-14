@@ -1,4 +1,4 @@
-![image](https://github.com/dolevshor/azure-finops-guide/assets/69309933/29c8b9e4-1684-471e-a4b9-d2b4a4103d6e)![FinOps-Logo-2](https://user-images.githubusercontent.com/69309933/211255358-23582f52-90cf-4eff-a34a-759b7a57f40a.jpg)
+![FinOps-Logo-2](https://user-images.githubusercontent.com/69309933/211255358-23582f52-90cf-4eff-a34a-759b7a57f40a.jpg)
 
 
 # The Azure FinOps Guide
@@ -215,32 +215,37 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 [Antonio-Ortoll-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1595602
 [Olga-Molocenco-Ciureanu-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1103062
 [Kyle-Ikeda-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/849111
+[Antonio-Ortoll-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1595602
 
 
 ### General
 
 | Topic                                                              | Author                                  | Published                | Channel                  |
 | :-----------------------                                           | :-----------------------                | :----------------------- | :----------------------- |
-| [Managing, reporting, and reducing your costs in Azure][General-1] | Scott Hanselman <br /> Barry Luijbregts | Dec 2022                 | Azure Friday             |
-| [Azure Cost Optimization Deep Dive][General-2]                     | [John Savill][John-Savill-1]            | May 2020                 | YouTube                  |
-| [Factors That Affect Costs][General-3]                             | [John Savill][John-Savill-1]            | Jan 2022                 | YouTube                  |
-| [Factors to Reduce Cost][General-4]                                | [John Savill][John-Savill-1]            | Jan 2022                 | YouTube                  |
-| [Communicating a cost savings initiative the right way and what NOT to do][General-5] | [John Savill][John-Savill-1] | Dec 2023         | YouTube                  |
-| [Azure Orphaned Resources][General-6]                              | [Dolev Shor][Dolev-Shor-1]              | Jun 2022                 | Microsoft Tech Community |
-| [Azure Orphaned Resources Workbook][General-7]                     | [Dolev Shor][Dolev-Shor-2]              | Jun 2022                 | GitHub                   |
-| [Azure FinOps Workbook][General-8]                                 | [Sam Bell][Sam-Bell-1]                  | Jan 2023                 | GitHub                   |
-| [Azure Optimization Engine][General-9]                             | [Hélder Pinto][Helder-Pinto-1]          | Feb 2021                 | GitHub                   |
+| [FinOps Blog][General-1]                                            | Microsoft                              |                          | Microsoft Tech Community |
+| [Managing, reporting, and reducing your costs in Azure][General-2] | Scott Hanselman <br /> Barry Luijbregts | Dec 2022                 | Azure Friday             |
+| [Azure Cost Optimization Deep Dive][General-3]                     | [John Savill][John-Savill-1]            | May 2020                 | YouTube                  |
+| [Factors That Affect Costs][General-4]                             | [John Savill][John-Savill-1]            | Jan 2022                 | YouTube                  |
+| [Factors to Reduce Cost][General-5]                                | [John Savill][John-Savill-1]            | Jan 2022                 | YouTube                  |
+| [Communicating a cost savings initiative the right way and what NOT to do][General-6] | [John Savill][John-Savill-1] | Dec 2023         | YouTube                  |
+| [Azure Orphaned Resources][General-7]                              | [Dolev Shor][Dolev-Shor-1]              | Jun 2022                 | Microsoft Tech Community |
+| [Azure Orphaned Resources Workbook][General-8]                     | [Dolev Shor][Dolev-Shor-2]              | Jun 2022                 | GitHub                   |
+| [Azure FinOps Workbook][General-9]                                 | [Sam Bell][Sam-Bell-1]                  | Jan 2023                 | GitHub                   |
+| [Azure Optimization Engine][General-10]                             | [Hélder Pinto][Helder-Pinto-1]          | Feb 2021                 | GitHub                   |
+| [Cost allocation is imperative for cloud resource optimization][General-11] | [Antonio Ortoll][Antonio-Ortoll-1] | Apr 2024              | Microsoft Tech Community |
 
-
-[General-1]: https://learn.microsoft.com/en-us/shows/azure-friday/managing-reporting-and-reducing-your-costs-in-azure
-[General-2]: https://www.youtube.com/watch?v=RjuTQvGm1zQ
-[General-3]: https://www.youtube.com/watch?v=fMShW_RGcxY
-[General-4]: https://www.youtube.com/watch?v=B5yiKE2DLH8
-[General-5]: https://www.youtube.com/watch?v=a1txqsKSafk
-[General-6]: https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-orphan-resources/ba-p/3492198
-[General-7]: https://github.com/dolevshor/azure-orphan-resources
-[General-8]: https://github.com/ms-sambell/azure-finops-workbook
-[General-9]: https://github.com/helderpinto/AzureOptimizationEngine
+[//]: <> (General links)
+[General-1]: https://techcommunity.microsoft.com/t5/finops-blog/bg-p/FinOpsBlog
+[General-2]: https://learn.microsoft.com/en-us/shows/azure-friday/managing-reporting-and-reducing-your-costs-in-azure
+[General-3]: https://www.youtube.com/watch?v=RjuTQvGm1zQ
+[General-4]: https://www.youtube.com/watch?v=fMShW_RGcxY
+[General-5]: https://www.youtube.com/watch?v=B5yiKE2DLH8
+[General-6]: https://www.youtube.com/watch?v=a1txqsKSafk
+[General-7]: https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-orphan-resources/ba-p/3492198
+[General-8]: https://github.com/dolevshor/azure-orphan-resources
+[General-9]: https://github.com/ms-sambell/azure-finops-workbook
+[General-10]: https://github.com/helderpinto/AzureOptimizationEngine
+[General-11]: https://techcommunity.microsoft.com/t5/finops-blog/cost-allocation-is-imperative-for-cloud-resource-optimization/ba-p/4114921
 
 ### Calculators
 
