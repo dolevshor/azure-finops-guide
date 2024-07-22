@@ -272,6 +272,9 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 | [Project Bose: Calculate Azure Cost of an Enterprise by cost centers, divisions, projects][CostMgmt-8] | [Pranab Paul][Pranab-Paul-1] | Feb 2023 |  Microsoft Tech Community |
 | [CLI tool to perform cost analysis on your Azure subscription][CostMgmt-9] | [Michiel van Oudheusden][Michiel-van-Oudheusden-1] | Apr 2023 |  GitHub               |
 | [Take control of your cloud spend with Microsoft Cost Management][CostMgmt-10] | [Antonio Ortoll][Antonio-Ortoll-1] | Jan 2024          | Microsoft Tech Community |
+| [Leverage anomaly management processes with Microsoft Cost Management][CostMgmt-11] | [Antonio Ortoll][Antonio-Ortoll-1] | Feb 2024     | Microsoft Tech Community |
+| [Use budget management and forecasting to bring your FinOps practice into the era of AI][CostMgmt-12] | [Antonio Ortoll][Antonio-Ortoll-1] | Jun 2024 | Microsoft Tech Community |
+| [Improve visibility into workload-related spend using Copilot in Microsoft Cost Management][CostMgmt-13] | [Antonio Ortoll][Antonio-Ortoll-1] | Nov 2023 | Microsoft Tech Community |
 
 
 [//]: <> (Cost Management links)
@@ -285,6 +288,9 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 [CostMgmt-8]: https://techcommunity.microsoft.com/t5/azure-architecture-blog/codename-project-bose-calculate-azure-cost-of-an-enterprise-by/ba-p/3741295
 [CostMgmt-9]: https://github.com/mivano/azure-cost-cli
 [CostMgmt-10]: https://techcommunity.microsoft.com/t5/azure-governance-and-management/take-control-of-your-cloud-spend-with-microsoft-cost-management/ba-p/4024213
+[CostMgmt-11]: https://techcommunity.microsoft.com/t5/finops-blog/leverage-anomaly-management-processes-with-microsoft-cost/ba-p/4072380
+[CostMgmt-12]: https://techcommunity.microsoft.com/t5/finops-blog/use-budget-management-and-forecasting-to-bring-your-finops/ba-p/4173661
+[CostMgmt-13]: https://techcommunity.microsoft.com/t5/finops-blog/improve-visibility-into-workload-related-spend-using-copilot-in/ba-p/3986503
 
 ### Advisor
 
@@ -305,7 +311,7 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 [Advisor-4]: https://www.youtube.com/watch?v=nqH4NboyEl0
 [Advisor-5]: https://www.youtube.com/watch?v=ZZXYtxkwpQo
 [Advisor-6]: https://techcommunity.microsoft.com/t5/azure-governance-and-management/optimize-your-cloud-investment-with-new-azure-advisor-workbooks/ba-p/3950911
-[Advisor-6]: https://techcommunity.microsoft.com/t5/azure-architecture-blog/3-reasons-to-optimize-your-workloads-with-azure-advisor/ba-p/3674044
+[Advisor-7]: https://techcommunity.microsoft.com/t5/azure-architecture-blog/3-reasons-to-optimize-your-workloads-with-azure-advisor/ba-p/3674044
 
 
 ### Azure Reservations
