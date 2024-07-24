@@ -122,19 +122,19 @@ List of learning path references related to FinOps on Azure:
 | Module Name                                  | Description              |
 | :-----------------------                     | :----------------------- |
 | [Microsoft Azure Well-Architected Framework – Cost Optimization][Learning-M-1] | Learn how to use the cost optimization pillar of the Microsoft Azure Well-Architected Framework to design a cloud-based architecture that is efficient, eliminates waste, and gives you full visibility into where your money is spent on cloud resources. |
-| [Plan and manage your Azure costs][Learning-M-2] | Learn about the factors that influence cost and tools you can use to help estimate and manage your cloud spending. |
-| [Introduction to analyzing costs and creating budgets with Microsoft Cost Management][Learning-M-3] | Learn how to use cost analysis to understand how your costs accrue each month. Use this understanding to create an Azure budget to monitor and alert you on your costs. |
-| [Save money with Azure Reserved Instances][Learning-M-4] | Save money by taking advantage of Azure reservations. Analyze and decide what to purchase and then learn how to purchase. Understand the benefits provided through compute purchases and optimize against any underuse. Perform basic reporting on your reservations. |
-| [Optimize Azure costs with data analysis in PowerBI][Learning-M-5] | Use Power BI to understand where your money is being spent in Azure so you can help your organization to optimize its costs. Identify key cost drivers, trends, and anomalies in your subscriptions and resource groups over time. Understand and manage hybrid benefits usage within your organization. Understand and optimize your reserved instance coverage to maximize your savings. Create custom dashboards to address your organization's more complex scenarios and analysis needs. |
-| [Configure and manage costs as a Microsoft partner by using Microsoft Cost Management][Learning-M-6] | Reconcile your bill and analyze costs across your customers and resources using Microsoft Cost Management as a partner. Determine which of your resources receive discounted pricing. Manage costs through budgets to stay within defined spending limits. Enable your customers to use Microsoft Cost Management with pay-as-you-go rates. |
+| [Introduction to analyzing costs and creating budgets with Microsoft Cost Management][Learning-M-2] | Learn how to use cost analysis to understand how your costs accrue each month. Use this understanding to create an Azure budget to monitor and alert you on your costs. |
+| [Save money with Azure Reserved Instances][Learning-M-3] | Save money by taking advantage of Azure reservations. Analyze and decide what to purchase and then learn how to purchase. Understand the benefits provided through compute purchases and optimize against any underuse. Perform basic reporting on your reservations. |
+| [Optimize Azure costs with data analysis in PowerBI][Learning-M-4] | Use Power BI to understand where your money is being spent in Azure so you can help your organization to optimize its costs. Identify key cost drivers, trends, and anomalies in your subscriptions and resource groups over time. Understand and manage hybrid benefits usage within your organization. Understand and optimize your reserved instance coverage to maximize your savings. Create custom dashboards to address your organization's more complex scenarios and analysis needs. |
+| [Configure and manage costs as a Microsoft partner by using Microsoft Cost Management][Learning-M-5] | Reconcile your bill and analyze costs across your customers and resources using Microsoft Cost Management as a partner. Determine which of your resources receive discounted pricing. Manage costs through budgets to stay within defined spending limits. Enable your customers to use Microsoft Cost Management with pay-as-you-go rates. |
+| [Purchase Azure savings plan for compute][Learning-M-6] | Purchase Azure savings plan for compute. |
 
 [//]: <> (Learning-Modules links)
 [Learning-M-1]: https://learn.microsoft.com/en-us/training/modules/azure-well-architected-cost-optimization/
-[Learning-M-2]: https://learn.microsoft.com/en-us/training/modules/plan-manage-azure-costs/
-[Learning-M-3]: https://learn.microsoft.com/en-us/training/modules/analyze-costs-create-budgets-azure-cost-management/
-[Learning-M-4]: https://learn.microsoft.com/en-us/training/modules/save-money-with-azure-reserved-instances/
-[Learning-M-5]: https://learn.microsoft.com/en-us/training/modules/optimize-costs-data-analysis-powerbi/
-[Learning-M-6]: https://learn.microsoft.com/en-us/training/modules/manage-costs-partner-cost-management/
+[Learning-M-2]: https://learn.microsoft.com/en-us/training/modules/analyze-costs-create-budgets-azure-cost-management/
+[Learning-M-3]: https://learn.microsoft.com/en-us/training/modules/save-money-with-azure-reserved-instances/
+[Learning-M-4]: https://learn.microsoft.com/en-us/training/modules/optimize-costs-data-analysis-powerbi/
+[Learning-M-5]: https://learn.microsoft.com/en-us/training/modules/manage-costs-partner-cost-management/
+[Learning-M-6]: https://learn.microsoft.com/en-us/training/modules/azure-savings-plan-for-compute/
 
 
 ## Books
