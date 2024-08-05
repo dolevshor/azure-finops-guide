@@ -216,6 +216,8 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 [Olga-Molocenco-Ciureanu-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1103062
 [Kyle-Ikeda-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/849111
 [Antonio-Ortoll-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1595602
+[Gregor-Wohlfarter-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1053914
+[Obinna-Nwokolo-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1563823
 
 
 ### General
@@ -231,8 +233,9 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 | [Azure Orphaned Resources][General-7]                              | [Dolev Shor][Dolev-Shor-1]              | Jun 2022                 | Microsoft Tech Community |
 | [Azure Orphaned Resources Workbook][General-8]                     | [Dolev Shor][Dolev-Shor-2]              | Jun 2022                 | GitHub                   |
 | [Azure FinOps Workbook][General-9]                                 | [Sam Bell][Sam-Bell-1]                  | Jan 2023                 | GitHub                   |
-| [Azure Optimization Engine][General-10]                             | [Hélder Pinto][Helder-Pinto-1]          | Feb 2021                 | GitHub                   |
-| [Cost allocation is imperative for cloud resource optimization][General-11] | [Antonio Ortoll][Antonio-Ortoll-1] | Apr 2024              | Microsoft Tech Community |
+| [Azure Optimization Engine][General-10]                            | [Hélder Pinto][Helder-Pinto-1]          | Feb 2021                 | GitHub                   |
+| [Cost allocation is imperative for cloud resource optimization][General-11] | [Antonio Ortoll][Antonio-Ortoll-1] | Apr 2024             | Microsoft Tech Community |
+| [Identify your savings potential in Azure][General-12]             | [Gregor Wohlfarter][Gregor-Wohlfarter-1] | Aug 2024                 | Microsoft Tech Community |
 
 [//]: <> (General links)
 [General-1]: https://techcommunity.microsoft.com/t5/finops-blog/bg-p/FinOpsBlog
@@ -246,6 +249,7 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 [General-9]: https://github.com/ms-sambell/azure-finops-workbook
 [General-10]: https://github.com/helderpinto/AzureOptimizationEngine
 [General-11]: https://techcommunity.microsoft.com/t5/finops-blog/cost-allocation-is-imperative-for-cloud-resource-optimization/ba-p/4114921
+[General-12]: https://techcommunity.microsoft.com/t5/finops-blog/identify-your-savings-potential-in-azure/ba-p/4131194
 
 ### Calculators
 
@@ -275,6 +279,7 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 | [Leverage anomaly management processes with Microsoft Cost Management][CostMgmt-11] | [Antonio Ortoll][Antonio-Ortoll-1] | Feb 2024     | Microsoft Tech Community |
 | [Use budget management and forecasting to bring your FinOps practice into the era of AI][CostMgmt-12] | [Antonio Ortoll][Antonio-Ortoll-1] | Jun 2024 | Microsoft Tech Community |
 | [Improve visibility into workload-related spend using Copilot in Microsoft Cost Management][CostMgmt-13] | [Antonio Ortoll][Antonio-Ortoll-1] | Nov 2023 | Microsoft Tech Community |
+| [How to budget your Azure cloud spend with Microsoft Cost Management][CostMgmt-14] | [Gregor Wohlfarter][Gregor-Wohlfarter-1] | Jun 2024 | Microsoft Tech Community |
 
 
 [//]: <> (Cost Management links)
@@ -291,6 +296,7 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 [CostMgmt-11]: https://techcommunity.microsoft.com/t5/finops-blog/leverage-anomaly-management-processes-with-microsoft-cost/ba-p/4072380
 [CostMgmt-12]: https://techcommunity.microsoft.com/t5/finops-blog/use-budget-management-and-forecasting-to-bring-your-finops/ba-p/4173661
 [CostMgmt-13]: https://techcommunity.microsoft.com/t5/finops-blog/improve-visibility-into-workload-related-spend-using-copilot-in/ba-p/3986503
+[CostMgmt-14]: https://techcommunity.microsoft.com/t5/finops-blog/how-to-budget-your-azure-cloud-spend-with-microsoft-cost/ba-p/4153963
 
 ### Advisor
 
@@ -326,6 +332,8 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 | [Reservation utilization alerts][Reservations-6]                   | Microsoft                               | May 2023                 | Microsoft Learn \| Docs  |
 | [Get Azure Reservations and Savings Plans Insights with the Azure Optimization Engine][Reservations-7] | [Helder Pinto][Helder-Pinto-2] | Apr 2024 | Microsoft Tech Community |
 | [How to optimize your Azure compute spend with savings plan and reserved instances][Reservations-8] | [Kyle Ikeda][Kyle-Ikeda-1] | Mar 2024 | Microsoft Tech Community |
+| [How to choose the right reserved instance in Azure][Reservations-9]| [Gregor Wohlfarter][Gregor-Wohlfarter-1] <br /> [Helder Pinto][Helder-Pinto-2] | May 2024 | Microsoft Tech Community |
+| [What's the difference between Azure savings plans for compute and Azure reservations?][Reservations-10]| [Gregor Wohlfarter][Gregor-Wohlfarter-1] <br /> [Obinna Nwokolo][Obinna-Nwokolo-1] | Jul 2024 | Microsoft Tech Community |
 
 [//]: <> (Reservations links)
 [Reservations-1]: https://www.youtube.com/watch?v=vpTDXenagcM
@@ -336,6 +344,8 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 [Reservations-6]: https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/reservation-utilization-alerts
 [Reservations-7]: https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/get-azure-reservations-and-savings-plans-insights-with-the-azure/ba-p/4100750
 [Reservations-8]: https://techcommunity.microsoft.com/t5/azure-compute-blog/how-to-optimize-your-azure-compute-spend-with-savings-plan-and/ba-p/4076115
+[Reservations-9]: https://techcommunity.microsoft.com/t5/finops-blog/how-to-choose-the-right-reserved-instance-in-azure/ba-p/4124218
+[Reservations-10]: https://techcommunity.microsoft.com/t5/finops-blog/what-s-the-difference-between-azure-savings-plans-for-compute/ba-p/4147506
 
 List of services that supported reservations:
 
@@ -418,9 +428,10 @@ List of services that supported reservations:
 | [Azure Savings Dashboard Tool][Savings-Plan-10]                    | [Saira Shaik][Saira-Shaik-2]            | May 2023                 | GitHub                   |
 | [Get Azure Reservations and Savings Plans Insights with the Azure Optimization Engine][Savings-Plan-11] | [Helder Pinto][Helder-Pinto-2] | Apr 2024 | Microsoft Tech Community |
 | [How to optimize your Azure compute spend with savings plan and reserved instances][Savings-Plan-12] | [Kyle Ikeda][Kyle-Ikeda-1] | Mar 2024 | Microsoft Tech Community |
+| [What's the difference between Azure savings plans for compute and Azure reservations?][Savings-Plan-13]| [Gregor Wohlfarter][Gregor-Wohlfarter-1] <br /> [Obinna Nwokolo][Obinna-Nwokolo-1] | Jul 2024 | Microsoft Tech Community |
 
 
-[//]: <> (Savings Plans links)
+[//]: <> (Savings Plan links)
 [Savings-Plan-1]: https://learn.microsoft.com/en-us/training/modules/azure-savings-plan-for-compute/
 [Savings-Plan-2]: https://www.youtube.com/watch?v=lBnKBV2r6lI&t
 [Savings-Plan-3]: https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/quick-reference-understanding-azure-reservations-vs-savings/ba-p/3689070
@@ -433,6 +444,7 @@ List of services that supported reservations:
 [Savings-Plan-10]: https://github.com/sairashaik6677/azuresavingsdashboard
 [Savings-Plan-11]: https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/get-azure-reservations-and-savings-plans-insights-with-the-azure/ba-p/4100750
 [Savings-Plan-12]: https://techcommunity.microsoft.com/t5/azure-compute-blog/how-to-optimize-your-azure-compute-spend-with-savings-plan-and/ba-p/4076115
+[Savings-Plan-13]: https://techcommunity.microsoft.com/t5/finops-blog/what-s-the-difference-between-azure-savings-plans-for-compute/ba-p/4147506
 
 ### Azure Hybrid Benefit
 
