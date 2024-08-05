@@ -235,7 +235,8 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 | [Azure FinOps Workbook][General-9]                                 | [Sam Bell][Sam-Bell-1]                  | Jan 2023                 | GitHub                   |
 | [Azure Optimization Engine][General-10]                            | [Hélder Pinto][Helder-Pinto-1]          | Feb 2021                 | GitHub                   |
 | [Cost allocation is imperative for cloud resource optimization][General-11] | [Antonio Ortoll][Antonio-Ortoll-1] | Apr 2024             | Microsoft Tech Community |
-| [Identify your savings potential in Azure][General-12]             | [Gregor Wohlfarter][Gregor-Wohlfarter-1] | Aug 2024                 | Microsoft Tech Community |
+| [Identify your savings potential in Azure][General-12]             | [Gregor Wohlfarter][Gregor-Wohlfarter-1] | Aug 2024                | Microsoft Tech Community |
+| [FinOps and Azure! Understanding what FinOps is and why we care][General-13] | [John Savill][John-Savill-1]  | May 2024                 | YouTube                  |
 
 [//]: <> (General links)
 [General-1]: https://techcommunity.microsoft.com/t5/finops-blog/bg-p/FinOpsBlog
@@ -250,6 +251,7 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 [General-10]: https://github.com/helderpinto/AzureOptimizationEngine
 [General-11]: https://techcommunity.microsoft.com/t5/finops-blog/cost-allocation-is-imperative-for-cloud-resource-optimization/ba-p/4114921
 [General-12]: https://techcommunity.microsoft.com/t5/finops-blog/identify-your-savings-potential-in-azure/ba-p/4131194
+[General-13]: https://www.youtube.com/watch?v=YHUptdFtozQ
 
 ### Calculators
 
