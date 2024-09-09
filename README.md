@@ -237,6 +237,8 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 | [Cost allocation is imperative for cloud resource optimization][General-11] | [Antonio Ortoll][Antonio-Ortoll-1] | Apr 2024             | Microsoft Tech Community |
 | [Identify your savings potential in Azure][General-12]             | [Gregor Wohlfarter][Gregor-Wohlfarter-1] | Aug 2024                | Microsoft Tech Community |
 | [FinOps and Azure! Understanding what FinOps is and why we care][General-13] | [John Savill][John-Savill-1]  | May 2024                 | YouTube                  |
+| [Interconnected guidance for an optimized cloud journey][General-14] | [Antonio Ortoll][Antonio-Ortoll-1]    | Jul 2024                 | Microsoft Tech Community |
+| [Combine FinOps best practices and Microsoft tools to streamline and optimize your workloads][General-15] | [Antonio Ortoll][Antonio-Ortoll-1] | Jul 2024 | Microsoft Tech Community |
 
 [//]: <> (General links)
 [General-1]: https://techcommunity.microsoft.com/t5/finops-blog/bg-p/FinOpsBlog
@@ -252,6 +254,8 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 [General-11]: https://techcommunity.microsoft.com/t5/finops-blog/cost-allocation-is-imperative-for-cloud-resource-optimization/ba-p/4114921
 [General-12]: https://techcommunity.microsoft.com/t5/finops-blog/identify-your-savings-potential-in-azure/ba-p/4131194
 [General-13]: https://www.youtube.com/watch?v=YHUptdFtozQ
+[General-14]: https://techcommunity.microsoft.com/t5/finops-blog/interconnected-guidance-for-an-optimized-cloud-journey/ba-p/4006134
+[General-15]: https://techcommunity.microsoft.com/t5/finops-blog/combine-finops-best-practices-and-microsoft-tools-to-streamline/ba-p/4093343
 
 ### Calculators
 
