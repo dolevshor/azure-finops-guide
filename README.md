@@ -173,6 +173,7 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 [Dolev-Shor-2]: https://github.com/dolevshor
 [Sam-Bell-1]: https://github.com/ms-sambell
 [Michael-Flanakin-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/422097
+[Michael-Flanakin-2]: https://azure.microsoft.com/en-us/blog/author/michael-flanakin
 [Halaa-Menasy-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/129267
 [Sarah-Lean-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/347158
 [Thomas-Maurer-1]: https://www.youtube.com/@Thomas_Maurer
@@ -868,3 +869,30 @@ Additional topics that related to Virtual Machines:
 [AOAI-5]: https://techcommunity.microsoft.com/t5/apps-on-azure-blog/calculating-chargebacks-for-business-units-projects-utilizing-a/ba-p/3909202
 [AOAI-6]: https://techcommunity.microsoft.com/t5/fasttrack-for-azure/strategies-for-optimizing-high-volume-token-usage-with-azure/ba-p/4007751
 [AOAI-7]: https://techcommunity.microsoft.com/t5/fasttrack-for-azure/optimizing-azure-openai-a-guide-to-limits-quotas-and-best/ba-p/4076268
+
+### FOCUS
+The `FinOps Cost and Usage Specification` (FOCUS™) is an open-source specification that defines clear requirements for cloud vendors to produce consistent cost and usage datasets.
+
+It is founded to normalizes cost and usage datasets across cloud vendors and reduces complexity for FinOps Practitioners.
+
+For more datails read [here](https://focus.finops.org/).
+
+
+| Topic                                                              | Author                                  | Published                | Channel                  |
+| :-----------------------                                           | :-----------------------                | :----------------------- | :----------------------- |
+| [FOCUS™ Datasets from Microsoft (Azure)][FOCUS-1]                  | Microsoft                               |                          | FinOps Foundation        |
+| [FOCUS cost and usage details file schema][FOCUS-2]                | Microsoft                               | Jun 2024                 | Microsoft Learn \| Docs  |
+| [FOCUS: A new specification for cloud cost transparency][FOCUS-3]  | [Michael Flanakin][Michael-Flanakin-2]                        | Oct 2023                 | Microsoft Azure Blogs    |
+| [Democratizing FinOps: Transform your practice with FOCUS and Microsoft Fabric][FOCUS-4] | [Michael Flanakin][Michael-Flanakin-2]  | Nov 2023                 | Microsoft Azure Blogs    |
+| [FOCUS: An open specification for cloud cost transparency][FOCUS-5] | [Michael Flanakin][Michael-Flanakin-1] | Jul 2024                 | Microsoft Tech Community |
+| [Moving from FOCUS 1.0 preview to FOCUS 1.0][FOCUS-6]              | [Michael Flanakin][Michael-Flanakin-1]  | Jul 2024                 | Microsoft Tech Community |
+
+[//]: <> (Storage links)
+[FOCUS-1]: https://focus.finops.org/get-started/microsoft
+[FOCUS-2]: https://learn.microsoft.com/en-us/azure/cost-management-billing/dataset-schema/cost-usage-details-focus
+[FOCUS-3]: https://azure.microsoft.com/en-us/blog/focus-a-new-specification-for-cloud-cost-transparency
+[FOCUS-4]: https://azure.microsoft.com/en-us/blog/democratizing-finops-transform-your-practice-with-focus-and-microsoft-fabric
+[FOCUS-5]: https://techcommunity.microsoft.com/t5/finops-blog/focus-an-open-specification-for-cloud-cost-transparency/ba-p/4184578
+[FOCUS-6]: https://techcommunity.microsoft.com/t5/finops-blog/moving-from-focus-1-0-preview-to-focus-1-0/ba-p/4184346
+
+
