@@ -53,6 +53,7 @@ The main purposes of this guide is to do more with less by:
     - [Azure Databricks](#azure-databricks)
   - [Azure AI Services](#azure-ai-services)
     - [Azure OpenAI Service](#azure-openai-service)
+  - [FOCUS™](#focus)
 
 
 ## Tools
@@ -875,7 +876,7 @@ The `FinOps Cost and Usage Specification` (FOCUS™) is an open-source specifica
 
 It is founded to normalizes cost and usage datasets across cloud vendors and reduces complexity for FinOps Practitioners.
 
-For more datails read [here](https://focus.finops.org/).
+For more details read [here](https://focus.finops.org/).
 
 
 | Topic                                                              | Author                                  | Published                | Channel                  |
