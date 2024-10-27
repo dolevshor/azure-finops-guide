@@ -220,6 +220,7 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 [Antonio-Ortoll-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1595602
 [Gregor-Wohlfarter-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1053914
 [Obinna-Nwokolo-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1563823
+[Amy-Colyer-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1286358
 
 
 ### General
@@ -490,8 +491,10 @@ List of services that supported reservations:
 | [Microsoft Azure Spot Virtual Machines overview][VMs-1]            | Rajeesh Ramachandran                    | Mar 2021                 | YouTube                  |
 | [Azure Spot VM Deep Dive][VMs-2]                                   | [John Savill][John-Savill-1]            | Nov 2021                 | YouTube                  |
 | [Understanding Windows Server IaaS Virtual Machine cost management][VMs-3] | Microsoft                       |                          | Microsoft Learn          |
-| [Start/Stop VMs][VMs-4]                                            | Microsoft                               | Nov 2022               | Microsoft Learn | Docs   |
+| [Start/Stop VMs][VMs-4]                                            | Microsoft                               | Nov 2022                 | Microsoft Learn | Docs   |
 | [Part 2: Infra Cost Optimisation In The Cloud – Practical Design Steps For Architects and Developers][VMs-5] | [Shane Baldacchino][Shane-Baldacchino-1]| Aug 2022 | Microsoft Tech Community |
+| [Optimizing your Azure VMs – 3 Simple Steps to Cloud Efficiency][VMs-6] | [Amy Colyer][Amy-Colyer-1]         | Sep 2023                 | Microsoft Tech Community |
+
 
 [//]: <> (Virtual Machines links)
 [VMs-1]: https://www.youtube.com/watch?v=UfQgR-nLfno
@@ -499,6 +502,7 @@ List of services that supported reservations:
 [VMs-3]: https://learn.microsoft.com/en-us/training/modules/understand-windows-server-iaas-vm-cost-management/
 [VMs-4]: https://learn.microsoft.com/en-us/azure/azure-functions/start-stop-vms/overview
 [VMs-5]: https://techcommunity.microsoft.com/t5/azure-architecture-blog/part-2-infra-cost-optimisation-in-the-cloud-practical-design/ba-p/3602797
+[VMs-6]: https://techcommunity.microsoft.com/t5/finops-blog/optimizing-your-azure-vms-3-simple-steps-to-cloud-efficiency/ba-p/3938137
 
 
 Additional topics that related to Virtual Machines:
