@@ -288,7 +288,7 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 | [Use budget management and forecasting to bring your FinOps practice into the era of AI][CostMgmt-12] | [Antonio Ortoll][Antonio-Ortoll-1] | Jun 2024 | Microsoft Tech Community |
 | [Improve visibility into workload-related spend using Copilot in Microsoft Cost Management][CostMgmt-13] | [Antonio Ortoll][Antonio-Ortoll-1] | Nov 2023 | Microsoft Tech Community |
 | [How to budget your Azure cloud spend with Microsoft Cost Management][CostMgmt-14] | [Gregor Wohlfarter][Gregor-Wohlfarter-1] | Jun 2024 | Microsoft Tech Community |
-
+| [Creating Azure Budgets][CostMgmt-15]                              | [John Savill][John-Savill-1]            | Oct 2024                 | YouTube                  |
 
 [//]: <> (Cost Management links)
 [CostMgmt-1]: https://learn.microsoft.com/en-us/training/modules/describe-cost-management-azure/
@@ -305,6 +305,7 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 [CostMgmt-12]: https://techcommunity.microsoft.com/t5/finops-blog/use-budget-management-and-forecasting-to-bring-your-finops/ba-p/4173661
 [CostMgmt-13]: https://techcommunity.microsoft.com/t5/finops-blog/improve-visibility-into-workload-related-spend-using-copilot-in/ba-p/3986503
 [CostMgmt-14]: https://techcommunity.microsoft.com/t5/finops-blog/how-to-budget-your-azure-cloud-spend-with-microsoft-cost/ba-p/4153963
+[CostMgmt-15]: https://www.youtube.com/watch?v=MRWR_9JMsF4
 
 ### Advisor
 
