@@ -585,7 +585,7 @@ Additional topics that related to Virtual Machines:
 | :-----------------------                                           | :-----------------------                | :----------------------- | :----------------------- |
 | [Optimizing your storage costs with Azure Blob Storage][STG-1]     | Scott Hanselman <br /> Klaas Langhout   | Apr 2021                 | Microsoft Friday         |
 | [Optimize your cost with Azure Blob Storage][STG-2]                | Microsoft                               |                          | Microsoft Learn          |
-| [Optimize performance and costs by using Azure Disk Storage][STG-3]| Microsoft                               |                          |  Microsoft Learn         |
+| [Optimize performance and costs by using Azure Disk Storage][STG-3]| Microsoft                               |                          | Microsoft Learn          |
 | [Optimize storage performance and costs using Blog storage tiers][STG-4]| Microsoft                          |                          | Microsoft Learn          |
 | [Plan and manage costs for Azure Blob Storage][STG-5]              | Microsoft                               | Dec 2022                 | Microsoft Azure          |
 | [Optimize costs by automatically managing the data lifecycle][STG-6]| Microsoft                              | Dec 2022                 | Microsoft Azure          |
@@ -744,10 +744,12 @@ Additional topics that related to Virtual Machines:
 | :-----------------------                                           | :-----------------------                | :----------------------- | :----------------------- |
 | [Plan and manage costs for Azure SQL Database][SQL-1]              | Microsoft                               | Sep 2022                 | Microsoft Learn \| Docs  |
 | [Azure SQL Database and cost optimization][SQL-2]                  | Microsoft                               | Jun 2022                 | Microsoft Learn \| Docs  |
+| [NEW FREE Azure SQL Database][SQL-3]                               | [John Savill][John-Savill-1]            | Oct 2024                 | YouTube                  |
 
 [//]: <> (Azure SQL Database links)
 [SQL-1]: https://learn.microsoft.com/en-us/azure/azure-sql/database/cost-management
 [SQL-2]: https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/data-processed
+[SQL-3]: https://www.youtube.com/watch?v=Xhks_sxZL7E
 
 
 #### Azure SQL Managed Instance
