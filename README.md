@@ -39,6 +39,7 @@ The main purposes of this guide is to do more with less by:
   - [Azure Virtual Desktop](#azure-virtual-desktop)
   - [Azure Logic Apps](#azure-logic-apps)
   - [Azure Functions](#azure-functions)
+  - [Azure VMware Solution](#azure-vmware-solution)
   - [Networking](#networking) 
     - [Azure Front Door](#azure-front-door)
     - [Azure Application Gateway](#azure-application-gateway)
@@ -221,6 +222,7 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 [Gregor-Wohlfarter-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1053914
 [Obinna-Nwokolo-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1563823
 [Amy-Colyer-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1286358
+[Aaida-Aboobakkar-1]: https://techcommunity.microsoft.com/users/aaida_aboobakkar/2556669
 
 
 ### General
@@ -699,6 +701,17 @@ Additional topics that related to Virtual Machines:
 
 [//]: <> (Azure Functions links)
 [Functions-1]: https://learn.microsoft.com/en-us/azure/azure-functions/functions-consumption-costs
+
+
+### Azure VMware Solution
+
+| Topic                                                              | Author                                  | Published                | Channel                  |
+| :-----------------------                                           | :-----------------------                | :----------------------- | :----------------------- |
+| [Azure VMWare (AVS) Cost Optimization Using Azure Migrate Tool][AVS-1] | [Aaida Aboobakkar][Aaida-Aboobakkar-1] | Nov 2024              | Microsoft Tech Community  |
+
+
+[//]: <> (Azure VMware Solution links)
+[AVS-1]: https://techcommunity.microsoft.com/discussions/azure/azure-vmware-avs-cost-optimization-using-azure-migrate-tool/4319413
 
 
 ### Networking
