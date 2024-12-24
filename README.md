@@ -223,6 +223,7 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 [Obinna-Nwokolo-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1563823
 [Amy-Colyer-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1286358
 [Aaida-Aboobakkar-1]: https://techcommunity.microsoft.com/users/aaida_aboobakkar/2556669
+[Sameer-D935-1]: https://techcommunity.microsoft.com/users/sameer_d935/2442782
 
 
 ### General
@@ -878,7 +879,9 @@ Additional topics that related to Virtual Machines:
 | [Azure Budgets and Azure OpenAI Cost Management][AOAI-4]           | [Shishir Garde][Shishir-Garde-1]        | Aug 2023                 | Microsoft Tech Community |
 | [Calculating Chargebacks for Business Units/Projects Utilizing a Shared Azure OpenAI Instance][AOAI-5] | [Shikha Sinha][Shikha-Sinha-1]| Aug 2023 | Microsoft Tech Community |
 | [Strategies for Optimizing High-Volume Token Usage with Azure OpenAI][AOAI-6] | [James Croft][James-Croft-1] | Dec 2023                 | Microsoft Tech Community |
-| [Optimizing Azure OpenAI: A Guide to Limits, Quotas, and Best Practices][AOAI-7] | [Olga Molocenco-Ciureanu][Olga-Molocenco-Ciureanu-1]| Mar 2024             | Microsoft Tech Community |
+| [Optimizing Azure OpenAI: A Guide to Limits, Quotas, and Best Practices][AOAI-7] | [Olga Molocenco-Ciureanu][Olga-Molocenco-Ciureanu-1] | Mar 2024 | Microsoft Tech Community |
+| [Optimize AI costs by choosing the right Azure OpenAI pricing offer for you][AOAI-8] | [Kyle Ikeda][Kyle-Ikeda-1] | Nov 2024            | Microsoft Tech Community |
+| [Managing Azure OpenAI costs][AOAI-9]                              | [Sameer_D935][Sameer-D935-1]            | Nov 2024                 | Microsoft Tech Community |
 
 
 
@@ -890,6 +893,8 @@ Additional topics that related to Virtual Machines:
 [AOAI-5]: https://techcommunity.microsoft.com/t5/apps-on-azure-blog/calculating-chargebacks-for-business-units-projects-utilizing-a/ba-p/3909202
 [AOAI-6]: https://techcommunity.microsoft.com/t5/fasttrack-for-azure/strategies-for-optimizing-high-volume-token-usage-with-azure/ba-p/4007751
 [AOAI-7]: https://techcommunity.microsoft.com/t5/fasttrack-for-azure/optimizing-azure-openai-a-guide-to-limits-quotas-and-best/ba-p/4076268
+[AOAI-8]: https://techcommunity.microsoft.com/blog/finopsblog/optimize-ai-costs-by-choosing-the-right-azure-openai-pricing-offer-for-you/4286390
+[AOAI-9]: https://techcommunity.microsoft.com/blog/finopsblog/managing-azure-openai-costs/4286830
 
 ### FOCUS
 The `FinOps Cost and Usage Specification` (FOCUS™) is an open-source specification that defines clear requirements for cloud vendors to produce consistent cost and usage datasets.
