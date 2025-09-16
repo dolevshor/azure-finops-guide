@@ -68,6 +68,7 @@ The table below contains a collection of native tools that are related to FinOps
 | [TCO Calculator][Tools-4]             | TCO = Total Cost of Ownership <br /> Estimate the cost savings you can realize by migrating your workloads to Azure. |
 | [Azure Hybrid Benefit Savings Calculator][Tools-5] | Estimates the price, savings, and eligible instances you can use in Azure based on your current Software Assurance licenses. (Windows VMs, SQL Server VMs, SQL Managed Instance, and SQL Database)  |
 | [FinOps toolkit][Tools-6]             | Starter kits, scripts, and advanced solutions to accelerate your FinOps journey in the Microsoft Cloud. |
+| [Microsoft Fabric SKU Estimator][Tools-7] | Predict your capacity needs by entering details about how your team plans to use Fabric |
 
 [//]: <> (Tools links)
 [Tools-1]: https://azure.microsoft.com/en-us/pricing/calculator
@@ -76,6 +77,7 @@ The table below contains a collection of native tools that are related to FinOps
 [Tools-4]: https://azure.microsoft.com/en-us/pricing/tco/calculator/
 [Tools-5]: https://azure.microsoft.com/en-us/pricing/hybrid-benefit/#calculator
 [Tools-6]: https://microsoft.github.io/finops-toolkit/
+[Tools-7]: https://www.microsoft.com/en-us/microsoft-fabric/capacity-estimator
 
 ## Ways to optimize
 This table contains a list of techniques to optimize and reduce your cloud environment's total cost of ownership.
@@ -267,12 +269,15 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 
 | Topic                                                              | Author                                  | Published                | Channel                  |
 | :-----------------------                                           | :-----------------------                | :----------------------- | :----------------------- |
-| [Master the Azure Pricing Calculator][Calculator-1]                | [John Savill][John-Savill-1]            | Jun 2021               | YouTube                  |
-| [Functionality and Usage of Pricing and TCO Calculators][Calculator-2] | [John Savill][John-Savill-1]        | Jan 2022               | YouTube                  |
+| [Master the Azure Pricing Calculator][Calculator-1]                | [John Savill][John-Savill-1]            | Jun 2021                 | YouTube                  |
+| [Functionality and Usage of Pricing and TCO Calculators][Calculator-2] | [John Savill][John-Savill-1]        | Jan 2022                 | YouTube                  |
+| [Microsoft Fabric SKU Estimator][Calculator-3]                     | Microsoft                               |                          | Microsoft Fabric         |
+
 
 [//]: <> (Calculators links)
 [Calculator-1]: https://www.youtube.com/watch?v=rMKmbZ1SYQg
 [Calculator-2]: https://www.youtube.com/watch?v=pE-bf8i5blU
+[Calculator-3]: https://www.microsoft.com/en-us/microsoft-fabric/capacity-estimator
 
 ### Cost Management
 
