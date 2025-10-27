@@ -37,7 +37,7 @@ The main purposes of this guide is to do more with less by:
   - [Azure Monitor](#azure-monitor)
   - [Microsoft Sentinel](#microsoft-sentinel)
   - [Azure Virtual Desktop](#azure-virtual-desktop)
-  - [Integration Services](#integrations-services)
+  - [Integration Services](#Integration-services)
     - [Azure Logic Apps](#azure-logic-apps)
     - [Azure API Management](#azure-api-management)
   - [Azure Functions](#azure-functions)
@@ -685,7 +685,7 @@ Additional topics that related to Virtual Machines:
 [AVD-2]: https://techcommunity.microsoft.com/t5/azure-virtual-desktop-blog/new-ways-to-optimize-flexibility-improve-security-and-reduce/ba-p/3650895
 [AVD-3]: https://ignite.microsoft.com/en-US/sessions/e016948a-1646-420e-9597-fae2b6d3ce29
 
-### Integrations Services
+### Integration Services
 
 #### Azure Logic Apps
 
