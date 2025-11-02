@@ -37,7 +37,9 @@ The main purposes of this guide is to do more with less by:
   - [Azure Monitor](#azure-monitor)
   - [Microsoft Sentinel](#microsoft-sentinel)
   - [Azure Virtual Desktop](#azure-virtual-desktop)
-  - [Azure Logic Apps](#azure-logic-apps)
+  - [Integration Services](#Integration-services)
+    - [Azure Logic Apps](#azure-logic-apps)
+    - [Azure API Management](#azure-api-management)
   - [Azure Functions](#azure-functions)
   - [Azure VMware Solution](#azure-vmware-solution)
   - [Networking](#networking) 
@@ -226,6 +228,7 @@ Whether you are new to FinOps or are an experienced professional, this summary i
 [Amy-Colyer-1]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1286358
 [Aaida-Aboobakkar-1]: https://techcommunity.microsoft.com/users/aaida_aboobakkar/2556669
 [Sameer-D935-1]: https://techcommunity.microsoft.com/users/sameer_d935/2442782
+[Erlend-Rushfeldt-1]: https://github.com/Erlendrushf
 
 
 ### General
@@ -682,8 +685,9 @@ Additional topics that related to Virtual Machines:
 [AVD-2]: https://techcommunity.microsoft.com/t5/azure-virtual-desktop-blog/new-ways-to-optimize-flexibility-improve-security-and-reduce/ba-p/3650895
 [AVD-3]: https://ignite.microsoft.com/en-US/sessions/e016948a-1646-420e-9597-fae2b6d3ce29
 
+### Integration Services
 
-### Azure Logic Apps
+#### Azure Logic Apps
 
 | Topic                                                              | Author                                  | Published                | Channel                  |
 | :-----------------------                                           | :-----------------------                | :----------------------- | :----------------------- |
@@ -697,6 +701,18 @@ Additional topics that related to Virtual Machines:
 [LogicApps-2]: https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-pricing
 [LogicApps-3]: https://learn.microsoft.com/en-us/azure/logic-apps/estimate-storage-costs
 
+#### Azure API Management
+
+| Topic                                                              | Author                                  | Published                | Channel                  |
+| :-----------------------                                           | :-----------------------                | :----------------------- | :----------------------- |
+| [Plan and manage costs for API Management][APIM-01]                | Microsoft                               | Oct 2025                 | Microsoft Learn \| Docs  |
+| [Well-Architected recommendations for Cost Optimization][APIM-02]  | Microsoft                               | Apr 2025                 | Microsoft Learn \| Docs  |
+| [Migrating to API Management v2][APIM-03]                          | [Erlend Rushfeldt][Erlend-Rushfeldt-1]  | Sep 2025                 | YouTube                  |
+
+[//]: <> (Azure API Management links)
+[APIM-01]: https://learn.microsoft.com/en-us/azure/api-management/plan-manage-costs
+[APIM-02]: https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-api-management#cost-optimization
+[APIM-03]: https://www.youtube.com/watch?v=S_XGnp_SjwQ
 
 ### Azure Functions
 
@@ -887,7 +903,7 @@ Additional topics that related to Virtual Machines:
 | [Optimizing Azure OpenAI: A Guide to Limits, Quotas, and Best Practices][AOAI-7] | [Olga Molocenco-Ciureanu][Olga-Molocenco-Ciureanu-1] | Mar 2024 | Microsoft Tech Community |
 | [Optimize AI costs by choosing the right Azure OpenAI pricing offer for you][AOAI-8] | [Kyle Ikeda][Kyle-Ikeda-1] | Nov 2024            | Microsoft Tech Community |
 | [Managing Azure OpenAI costs][AOAI-9]                              | [Sameer_D935][Sameer-D935-1]            | Nov 2024                 | Microsoft Tech Community |
-
+| [AI-Gateway FinOps Framework lab][AOAI-10]                         | Microsoft                               | Jul 2025                 | GitHub                   |
 
 
 [//]: <> (Azure OpenAI links)
@@ -900,6 +916,7 @@ Additional topics that related to Virtual Machines:
 [AOAI-7]: https://techcommunity.microsoft.com/t5/fasttrack-for-azure/optimizing-azure-openai-a-guide-to-limits-quotas-and-best/ba-p/4076268
 [AOAI-8]: https://techcommunity.microsoft.com/blog/finopsblog/optimize-ai-costs-by-choosing-the-right-azure-openai-pricing-offer-for-you/4286390
 [AOAI-9]: https://techcommunity.microsoft.com/blog/finopsblog/managing-azure-openai-costs/4286830
+[AOAI-10]: https://github.com/Azure-Samples/AI-Gateway/blob/main/labs/finops-framework/finops-framework.ipynb
 
 ### FOCUS
 The `FinOps Cost and Usage Specification` (FOCUS™) is an open-source specification that defines clear requirements for cloud vendors to produce consistent cost and usage datasets.
